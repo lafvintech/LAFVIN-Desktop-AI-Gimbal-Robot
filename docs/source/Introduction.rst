@@ -1,15 +1,15 @@
 Introduction
 ============
 
-**Dear maker friends, welcome to the learning world of the LAFVIN Quadruped Spider Robot!**
+**Dear maker friends, welcome to the learning world of the LAFVIN Desktop AI Gimbal Robot!**
 
 **Please read this documentation carefully. If you encounter any problems during use, please contact our after-sales support team, and we will assist you as soon as possible.**
 
 ----
 
-**LAFVIN Quadruped Spider Robot**
+**LAFVIN Desktop AI Gimbal Robot**
 
-.. image:: _static/2.spider.png
+.. image:: _static/2.gimbal.png
    :width: 800
    :align: center
 
@@ -18,7 +18,7 @@ Introduction
 Function Introduction
 ---------------------
 
-This quadruped spider robot, based on the ESP8266, features a multi-degree-of-freedom design and offers a wide range of flexible movements. It integrates Wi-Fi, infrared remote control, and ultrasonic obstacle avoidance, and is equipped with eight MG90 servos, supporting six postures and nine preset actions. A comprehensive curriculum is included, and open-source code supports secondary development, making it suitable for teaching, demonstrations, research, and maker projects.
+This desktop AI gimbal robot, based on the ESP8266, features a multi-degree-of-freedom design and offers a wide range of flexible movements. It integrates Wi-Fi, infrared remote control, and ultrasonic obstacle avoidance, and is equipped with eight MG90 servos, supporting six postures and nine preset actions. A comprehensive curriculum is included, and open-source code supports secondary development, making it suitable for teaching, demonstrations, research, and maker projects.
 
 **APP Control:**
 
@@ -50,39 +50,23 @@ Bill of Materials
      - Name
      - Quantity
    * - 1
-     - ESP8266 Development Board
+     - Desktop AI Gimbal  Robot Extension Board
      - x1
    * - 2
-     - Quadruped Spider Extension Board
-     - x1
+     - MG90S Servo 
+     - x2
    * - 3
-     - Ultrasonic Distance Sensor
+     - Gesture Recognition Module
      - x1
    * - 4
-     - MG90 Servo 
-     - x8
+     - 0.96 Inch OLED Display
+     - x1
    * - 5
-     - Infrared Remote Controller
-     - x1
-   * - 6
-     - Custom Acrylic Plate
+     - Acrylic Base Plate
      - x2
-   * - 7
-     - Micro USB Data Cable
-     - x1
-   * - 8
-     - Screw Package
-     - x1
-   * - 9
-     - Phillips Screwdriver
-     - x1
-   * - 10
-     - Cable Ties
-     - x4
-   * - 11
-     - Anti-slip Rubber Sleeves
-     - x8
+   * - 6
 
+----
 
 Upon receiving the kit, please first check all components against the above bill of materials. If you find any missing or damaged items, please contact our technical support team immediately.
 
