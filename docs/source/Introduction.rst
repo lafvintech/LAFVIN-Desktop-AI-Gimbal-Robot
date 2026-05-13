@@ -118,7 +118,10 @@ Resource Download
 
 - 2-DOF Gimbal: Equipped with two MG90S servos, it can perform smooth pan and tilt movements, allowing it to "look around" and "nod" in response to interactions.
 
------------------
+----
+
+Resource Downloads
+------------------
 
 All the necessary code and library files for this course are provided. You can obtain all the resources through the following link.
 
