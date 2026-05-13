@@ -65,6 +65,20 @@ Bill of Materials
      - Acrylic Base Plate
      - x2
    * - 6
+     - Gimbal Sheet Metal
+     - x4
+   * - 7
+     - 4-Pin Connection Cable
+     - x2
+   * - 8
+     - Type-C Data Cable
+     - x1
+   * - 9
+     - Screw Pack
+     - x1   
+   * - 10
+     - Phillips screwdriver
+     - x1   
 
 ----
 
@@ -76,8 +90,6 @@ Resource Download
 -----------------
 
 All the necessary code and library files for this course are provided. You can obtain all the resources through the following link.
-
-`Code and Libraries <https://www.dropbox.com/scl/fo/a6ho5cf95ha65esq2odw6/AJXY-Am6qb03g0PRiQOCCNQ?rlkey=hmndkdpv0zjwaymovmp16hevn&st=n1o5zzxr&dl=1>`_
 
 `Flash Download Tool <https://www.dropbox.com/scl/fo/r81afjixw65y88jikwxno/AM8XTGDtfcEJDgN0jHyMbRY?rlkey=4lvaoh0axd9nhvk9al7qukoi5&st=1hqtehms&dl=1>`_
 
