@@ -131,23 +131,54 @@ Troubleshooting Flashing Issues
 
 If you encounter issues with flashing or the flashing process fails, please perform the following self-check steps:
 
-- **Check USB Connection**: Ensure the Type-C data cable is securely connected to both the Desktop AI Gimbal Robot Main Control Board and your computer. Try using a different USB port or cable if possible.
+1. **Check USB Connection**: Ensure the Type-C data cable is securely connected to both the Desktop AI Gimbal Robot Main Control Board and your computer. Try using a different USB port or cable if possible.
 
-- **Verify Power Supply:** Ensure that the device is properly powered on. Please insert an 18650 battery; the main control board must maintain a stable power supply throughout the flashing process.
+.. raw:: html
 
-- **Check Device Drivers**: Ensure that the necessary USB drivers are installed on your computer. For Windows, check Device Manager for any unrecognized devices. For macOS/Linux, verify serial port permissions.
+   <div style="margin-top: 30px;"></div>
 
-- **Select Correct COM Port**: In the Flash Download Tool or online flasher, confirm that the correct COM port (serial port) is selected. You can find this in your computer's Device Manager (Windows) or System Report (macOS).
+2. **Verify Power Supply**: Ensure that the device is properly powered on. Please insert an 18650 battery; the main control board must maintain a stable power supply throughout the flashing process.
 
-- **Restart Software and Device**: Close the flashing software, disconnect and reconnect the device, then restart the flashing process.
+.. raw:: html
 
-- **Disable Antivirus/Firewall**: Temporarily disable any antivirus software or firewall that might be interfering with the flashing process.
+   <div style="margin-top: 30px;"></div>
 
-- **Try Different Browser/Computer**: If using the online flasher, try a different web browser or computer to rule out compatibility issues.
+3. **Check Device Drivers**: Ensure that the necessary USB drivers are installed on your computer. For Windows, check Device Manager for any unrecognized devices. For macOS/Linux, verify serial port permissions.
+ 
+.. raw:: html
 
-- **Check Firmware File**: Ensure you are using the correct firmware file from the provided resource package and that it is not corrupted.
+   <div style="margin-top: 30px;"></div>
+
+4. **Select Correct COM Port**: In the Flash Download Tool or online flasher, confirm that the correct COM port (serial port) is selected. You can find this in your computer's Device Manager (Windows) or System Report (macOS).
+ 
+.. raw:: html
+
+   <div style="margin-top: 30px;"></div>
+
+5. **Restart Software and Device**: Close the flashing software, disconnect and reconnect the device, then restart the flashing process.
+ 
+.. raw:: html
+
+   <div style="margin-top: 30px;"></div>
+
+6. **Disable Antivirus/Firewall**: Temporarily disable any antivirus software or firewall that might be interfering with the flashing process.
+
+.. raw:: html
+
+   <div style="margin-top: 30px;"></div>
+
+7. **Try Different Browser/Computer**: If using the online flasher, try a different web browser or computer to rule out compatibility issues.
+ 
+.. raw:: html
+
+   <div style="margin-top: 30px;"></div>
+
+8. **Check Firmware File**: Ensure you are using the correct firmware file from the provided resource package and that it is not corrupted.
+ 
+.. raw:: html
+
+   <div style="margin-top: 30px;"></div>
 
 If the issue persists after performing these checks, please contact our technical support team with details about your setup, error messages, and the steps you've already tried.
 
 ----
-
