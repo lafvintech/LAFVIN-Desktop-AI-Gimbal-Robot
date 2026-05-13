@@ -33,6 +33,7 @@ Bill of Materials
      - Quantity
    * - 1
      - Desktop AI Gimbal Robot Main Control Board
+     - x1
    * - 2
      - MG90S Servo 
      - x2
