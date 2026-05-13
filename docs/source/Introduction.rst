@@ -23,7 +23,7 @@ Bill of Materials
    :width: 800
    :align: center
 
-.. list-table:: Bill of Materials
+.. list-table:: 
    :header-rows: 1
    :widths: 10 40 20
    :align: center
@@ -71,7 +71,7 @@ Upon receiving the kit, please first check all components against the above bill
 Technical Parameters
 --------------------
 
-.. list-table:: Technical Parameters
+.. list-table:: 
    :header-rows: 1
    :widths: 20 30
    :align: center
