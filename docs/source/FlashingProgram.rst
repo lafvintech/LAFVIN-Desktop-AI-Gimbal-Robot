@@ -26,7 +26,7 @@ Step 2: Access the Online Flashing Platform
 
 Click here to jump directly to the online flashing page: `LAFVIN Web Flasher <https://lafvintech.github.io/Lafvin_Web_Flasher/>`_
 
-.. image:: _static/flash/2.port.png
+.. image:: _static/flash/1.webflash.png
    :width: 800
    :align: center
 
@@ -38,7 +38,7 @@ Step 3: Connect Serial Port
 
 Click "Connect," and in the pop-up serial port selection window, select the appropriate serial port to establish the connection.
 
-.. image:: _static/flash/2.select.png
+.. image:: _static/flash/2.port.png
    :width: 800
    :align: center   
 
@@ -50,7 +50,7 @@ Click "Connect," and in the pop-up serial port selection window, select the appr
 
     If you are unsure which serial port to select, you can disconnect the device and check which port disappears from the list, then reconnect it and select that port.
 
-    If no new serial port is detected, it indicates that the main control board has not entered download mode. Please proceed as follows: press and hold the BOOT button, then connect the data cable to the main control board.
+    If no new serial port is detected, it indicates that the main control board has not entered download mode. Please proceed as follows: press and hold the **BOOT button**, then connect the data cable to the main control board.
 
 ----
 
