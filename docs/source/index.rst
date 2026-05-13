@@ -11,15 +11,5 @@ LAFVIN Quadruped Spider Robot
    :maxdepth: 2
    :caption: Quick Start Guide
 
-   Programmingprogram
-   AssemblyTutorial
-   ControlMethodTutorial
-   FrequentlyAskedQuestions
-
-.. toctree::
-   :maxdepth: 1
-   :caption:  Experimental Course
-
-   Components
-   ArduinoIDEUserGuide
-   kitforlearningcourse
+   FlashingProgram
+   assembly
