@@ -15,24 +15,6 @@ Introduction
 
 ----
 
-Function Introduction
----------------------
-
-This desktop AI gimbal robot, based on the ESP8266, features a multi-degree-of-freedom design and offers a wide range of flexible movements. It integrates Wi-Fi, infrared remote control, and ultrasonic obstacle avoidance, and is equipped with eight MG90 servos, supporting six postures and nine preset actions. A comprehensive curriculum is included, and open-source code supports secondary development, making it suitable for teaching, demonstrations, research, and maker projects.
-
-**APP Control:**
-
-The robot can be controlled via a mobile application, allowing you to easily manage its movements and functions through your smartphone.
-
-**Infrared Remote Control:**
-
-The robot can also be operated using an infrared remote controller, providing an alternative method for controlling its actions.
-
-**Ultrasonic Obstacle Avoidance:**   
-
-The robot is equipped with an ultrasonic distance sensor that enables it to detect and avoid obstacles in its path, enhancing its navigation capabilities.
-
-----
 
 Bill of Materials
 -----------------
@@ -50,8 +32,7 @@ Bill of Materials
      - Name
      - Quantity
    * - 1
-     - Desktop AI Gimbal  Robot Extension Board
-     - x1
+     - Desktop AI Gimbal Robot Main Control Board
    * - 2
      - MG90S Servo 
      - x2
@@ -85,6 +66,35 @@ Bill of Materials
 Upon receiving the kit, please first check all components against the above bill of materials. If you find any missing or damaged items, please contact our technical support team immediately.
 
 ----
+
+Technical Parameters
+--------------------
+
+.. list-table:: Technical Parameters
+   :header-rows: 1
+   :widths: 20 30
+   :align: center
+
+   * - Parameter
+     - Value
+   * - Power Supply Voltage
+     - DC 5V
+   * - Operating Current
+     - ≤500mA
+   * - Communication Interface
+     - USB Type-C, UART, I2C
+   * - Sensor Type
+     - Accelerometer, Gyroscope, Magnetometer
+   * - Servo Type
+     - MG90S Micro Servo
+   * - Operating Temperature Range
+     - 0°C to 40°C
+
+----
+
+Function Introduction
+---------------------
+
 
 Resource Download
 -----------------
