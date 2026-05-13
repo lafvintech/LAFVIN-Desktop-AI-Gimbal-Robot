@@ -133,7 +133,7 @@ If you encounter issues with flashing or the flashing process fails, please perf
 
 1. **Check USB Connection**: Ensure the Type-C data cable is securely connected to both the Desktop AI Gimbal Robot Main Control Board and your computer. Try using a different USB port or cable if possible.
 
-2. 2. **Verify Power Supply:** Ensure that the device is properly powered on. Please insert an 18650 battery; the main control board must maintain a stable power supply throughout the flashing process.
+2. **Verify Power Supply:** Ensure that the device is properly powered on. Please insert an 18650 battery; the main control board must maintain a stable power supply throughout the flashing process.
 
 3. **Check Device Drivers**: Ensure that the necessary USB drivers are installed on your computer. For Windows, check Device Manager for any unrecognized devices. For macOS/Linux, verify serial port permissions.
 
