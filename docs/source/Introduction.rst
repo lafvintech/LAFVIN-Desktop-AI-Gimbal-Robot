@@ -22,6 +22,10 @@ Bill of Materials
    :width: 800
    :align: center
 
+.. raw:: html
+
+   <div style="margin-top: 30px;"></div>
+
 .. list-table:: 
    :header-rows: 1
    :widths: 10 40 20
