@@ -99,7 +99,7 @@ In the Flash Download Tool, select the appropriate settings as shown in the imag
    :width: 800
    :align: center
 
- .. raw:: html
+.. raw:: html
 
    <div style="margin-top: 30px;"></div>
 
