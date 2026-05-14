@@ -96,7 +96,7 @@ Step 2: Configure Flash Download Tool
 In the Flash Download Tool, select the appropriate settings as shown in the image below.
 
 .. image:: _static/flash/4.tool.png
-   :width: 800
+   :width: 500
    :align: center
 
 .. raw:: html
@@ -108,6 +108,10 @@ Import the firmware following the steps shown in the image.
 .. image:: _static/flash/5.tool.png
    :width: 800
    :align: center
+
+.. raw:: html
+
+   <div style="margin-top: 30px;"></div>
 
 .. attention::
 
