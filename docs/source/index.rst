@@ -1,5 +1,5 @@
-LAFVIN Quadruped Spider Robot
-=============================
+LAFVIN Desktop AI Gimbal Robot
+===============================
 
 .. toctree::
    :maxdepth: 2

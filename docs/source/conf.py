@@ -1,5 +1,5 @@
 # -- Project information -----------------------------------------------------
-project = 'LAFVIN_Quadruped Spider Robot'
+project = 'LAFVIN Desktop AI Gimbal Robot'
 copyright = '2026, Lafvin'
 author = 'Lafvin'
 
