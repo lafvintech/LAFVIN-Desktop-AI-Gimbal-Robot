@@ -55,11 +55,20 @@ Bill of Materials
      - Type-C Data Cable
      - x1
    * - 9
-     - Screw Pack
-     - x1   
-   * - 10
      - Phillips screwdriver
-     - x1   
+     - x1  
+   * - 10
+     - Screw Pack
+     - x1  
+   * - 11
+     - M3 Gasket
+     - x5   
+   * - 12
+     - M2 Plastic Column
+     - x5  
+   * - 13
+     - Bearings
+     - x2  
 
 ----
 
