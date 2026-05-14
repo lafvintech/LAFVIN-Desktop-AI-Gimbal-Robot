@@ -1,7 +1,7 @@
 Introduction
 ============
 
-**Dear maker friends, welcome to the learning world of the LAFVIN Desktop AI Gimbal Robot!**
+**Dear friends, welcome to the learning world of the LAFVIN Desktop AI Gimbal Robot!**
 
 **Please read this documentation carefully. If you encounter any problems during use, please contact our after-sales support team, and we will assist you as soon as possible.**
 
@@ -63,7 +63,11 @@ Bill of Materials
 
 ----
 
-Upon receiving the kit, please first check all components against the above bill of materials. If you find any missing or damaged items, please contact our technical support team immediately.
+.. attention::
+
+   Please check the contents of the package against the bill of materials. If you find any missing or damaged items, please contact our technical support team immediately.
+
+   The package does not include an 18650 battery. The Type-C data cable is only for flashing firmware and charging. Please note that powering the entire system solely through the Type-C data cable is insufficient and may cause the robot to crash or restart.
 
 ----
 
