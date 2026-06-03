@@ -108,7 +108,7 @@ Add device
 
 1. After logging in Xiaozhi, click the “Add Device” button on the console page.
 
-.. image:: _static/xiaozhi/6.xiaozhi.png
+.. image:: _static/xiaozhi/6.xiaozhi1.png
    :width: 800
    :align: center
 
@@ -136,9 +136,68 @@ Add device
 
     <div style="margin-top: 30px;"></div>
 
+4. Now you can talk to it.
+
 ----
 
+Configure roles
+---------------
+
+**To make it more fun, you can configure your unique character as follows:**
 
 
+1. Configure Agent Parameters:
 
+  Assistant Name: Name your AI assistant
+
+ - Voice Role: Select your preferred voice style
+
+ - Language Preference: Set the conversation language
+
+ - Role Introduction: Define the personality traits of the AI assistant
+
+ - Language Model: Select the language model to use
+
+.. image:: _static/xiaozhi/12.xiaozhi.png
+   :width: 800
+   :align: center
+
+.. raw:: html
+
+    <div style="margin-top: 30px;"></div>
+
+2. Set the Role Prompt. It is recommended to use the following template, or you can create your own role prompt:
+
+ - 'I am a virtual assistant called {{assistant_name}}. I communicate exclusively in English with a natural, friendly voice. I provide helpful, accurate information and assist users with their queries while maintaining a conversational tone. I adapt my speaking style to match the user's needs and always aim to deliver clear, concise responses in fluent English.'
+
+3. Click the “Save” button to save the role configuration.
+
+.. image:: _static/xiaozhi/12.xiaozhi.png
+   :width: 800
+   :align: center
+
+.. raw:: html
+
+    <div style="margin-top: 30px;"></div>
+
+4. After configuring the character, you need to press the **RST** button on the main control panel again for the configuration to take effect.
+
+-----
+
+**Now you can have a conversation with your personalized AI assistant!**
+
+Troubleshooting and FAQs
+------------------------
+
+- If the website link does not open, verify that your browser has network access and use the exact URL: `https://xiaozhi.me/`.
+- If the registration SMS code is not received, check your phone number format, country selection, and network coverage. Try requesting the code again after a short wait.
+- If the device does not show a `Xiaozhi-xxxx` hotspot, press the **RST** button again to restart Wi-Fi configuration mode and wait for the board to finish booting.
+- If the configuration page does not redirect automatically after connecting to the hotspot, open a browser and navigate manually to `http://192.168.4.1`.
+- If your Wi-Fi network is not listed, use the manual entry option to type the SSID and password exactly, including uppercase letters and symbols.
+- If the device fails to connect to Wi-Fi, confirm the password, ensure the router supports 2.4 GHz, and avoid hidden or enterprise networks during initial setup.
+- If the 6-digit pairing code is not accepted during device binding, verify the code shown on the screen and try again after refreshing the console page.
+- If the AI assistant responds incorrectly or does not respond, re-check the role prompt and settings, then press **RST** on the main control panel to reload the configuration.
+- If the voice assistant does not work reliably, ensure the microphone and speaker connections are secure, and test again in a quiet environment.
+
+For any persistent issues, refer to the Xiaozhi documentation and support resources, or retry the setup steps from the beginning to confirm each stage was completed correctly.
 
