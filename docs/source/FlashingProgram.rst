@@ -19,6 +19,10 @@ Use the provided Type-C data cable to connect the **Desktop AI Gimbal Robot Main
    :width: 800
    :align: center
 
+.. attention::
+
+   After inserting the data cable, you need to turn on the power switch.
+
 ----
 
 Step 2: Access the Online Flashing Platform
@@ -29,7 +33,6 @@ Click here to jump directly to the online flashing page: `LAFVIN Web Flasher <ht
 .. image:: _static/flash/1.webflash.png
    :width: 800
    :align: center
-
 
 ----
 
