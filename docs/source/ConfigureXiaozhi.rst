@@ -197,7 +197,6 @@ Troubleshooting and FAQs
 - If the device fails to connect to Wi-Fi, confirm the password, ensure the router supports 2.4 GHz, and avoid hidden or enterprise networks during initial setup.
 - If the 6-digit pairing code is not accepted during device binding, verify the code shown on the screen and try again after refreshing the console page.
 - If the AI assistant responds incorrectly or does not respond, re-check the role prompt and settings, then press **RST** on the main control panel to reload the configuration.
-- If the voice assistant does not work reliably, ensure the microphone and speaker connections are secure, and test again in a quiet environment.
 
 For any persistent issues, refer to the Xiaozhi documentation and support resources, or retry the setup steps from the beginning to confirm each stage was completed correctly.
 
