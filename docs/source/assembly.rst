@@ -204,9 +204,141 @@ STEP 7: Combine the two servos
    :width: 800
    :align: center
 
+----
+
+STEP 8: Assemble screen
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Required components:**
+
+- 0.96-inch screen
+- M2 x 12mm screws (4 PCS)
+- M2 nuts (4 PCS)
+- M2 washers (4 PCS)
+
+**Assembly Steps:**
+
+1. Align the holes on the 0.96-inch screen with the holes on the metal screen bracket.
+2. Pass an M2 x 12mm screw through the holes and install an M2 washer and M2 nut on the screw, then tighten it to secure the 0.96-inch screen to the metal screen bracket.
+
+.. image:: _static/assembly/8.screen.png
+   :width: 800
+   :align: center
+
+----
+
+STEP 9: Assemble the gimbal base and servo motor together.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Required components:**
+
+- The gimbal base and servo bracket assembled in the above steps, etc.
+- M2x4mm screws (1 PCS, included in the servo bag)
+
+**Assembly Steps:**
+
+1. Insert the gear of the horizontal servo bracket into the servo arm of the gimbal base, and tighten it at the bottom with an M2x4mm screw.
+
+.. attention::
+
+ During installation, ensure that the horizontal servo is perpendicular to the gimbal base.
+ 
+ .. image:: _static/assembly/9.final.png
+   :width: 800
+   :align: center
 
 
-     
+.. image:: _static/assembly/9.final.png
+   :width: 800
+   :align: center
+
+----
+
+STEP 10: Assemble the acrylic base and the top cover together.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Required components:**
+
+- Acrylic base
+- Acrylic Top cover
+- M3x10mm screws (4 PCS)
+
+
+**Assembly Steps:**
+
+1. Align the holes on the acrylic base with the holes on the top cover.
+2. Insert M3x10mm screws through the aligned holes and tighten them to secure the acrylic base and top cover together.
+
+.. image:: _static/assembly/10.acrylic.png
+   :width: 800
+   :align: center
+
+----
+
+Step 11: Wiring
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Required components:**
+
+- XH2.54 4PIN connector cable (2 PCS)
+
+**Assembly Steps:**
+
+1. Connect the XH2.54 4PIN cable to the corresponding interfaces on the main control board of the gesture recognition module and the screen module respectively, and ensure that the connection is secure.
+
+.. image:: _static/assembly/11.wiring.png
+   :width: 800
+   :align: center
+
+----
+
+Step 12: Organize the wire harness
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Required components:**
+
+- Cable ties
+
+**Assembly Steps:**
+
+Click here to view the user guide. After ensuring that it is working properly, use cable ties to organize the wire harness.
+
+.. image:: _static/assembly/12.wiring.png
+   :width: 800
+   :align: center
+
+----
+
+Servo Calibration Tutorial
+-------------------------
+
+
+Troubleshooting Assembly
+------------------------
+
+This section summarizes common problems that may occur during assembly and installation, and provides corresponding solutions.
+
+- **Power Supply/Battery:** Problem: Device cannot power on. Solution: Check battery polarity and charge; ensure 18650 batteries are correctly inserted; try using fully charged batteries.
+
+- **Servo Direction or Jamming:** Problem: Servo movement is incorrect or jammed. Solution: Confirm the servo direction and installation orientation described in the steps; perform a servo reset after firmware update; ensure there are no mechanical obstructions on the servo arm and linkage.
+
+- **Servo Unreset/Unresponsive:** Problem: Servo does not respond after power-on. Solution: Ensure the main control board firmware has been updated (see the "Update Procedure" section); check signal cable connections; check if the power supply provides sufficient current to the servo.
+
+- **Screen Not Displaying/Gibberish:** Problem: Screen is blank or displays garbled characters. Solution: Check the orientation and wiring of the display connector; confirm the display type and driver in the firmware configuration; check for loose pins and re-plug the connector.
+
+- **Gesture Module Malfunction:** Problem: Gesture input is not recognized. Solution: Check the wiring and pin orientation of the XH2.54 connector; ensure the power and signal connections of the gesture module are correct.
+
+- **Loose or Missing Hardware:** Problem: Some components are loose or missing. Solution: Review the parts list and steps in this chapter; tighten screws to the recommended torque and use washers in designated locations.
+
+- **Servo Jitter or Noise:** Problem: Servo motor vibration or abnormal operation. Solution: Provide a stable and sufficient power supply; add a decoupling capacitor near the power input; ensure the controller and servo motor share a common ground; test each servo motor individually to troubleshoot the faulty unit.
+
+- **Wiring and Connector Issues:** Problem: Unstable connections or abnormal behavior. Solution: Check connectors for bent pins, re-plug all cables and secure the wiring harness with cable ties; replace damaged connectors or cables.
+
+If the problem persists after trying the above methods, please collect the following information and contact technical support: a clear photo of the assembly, a short video demonstrating the problem, console logs or flash output, and the firmware version installed.
+
+----
+
+
 
 
 
