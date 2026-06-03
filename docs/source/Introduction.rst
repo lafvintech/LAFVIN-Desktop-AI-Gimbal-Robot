@@ -63,16 +63,19 @@ Bill of Materials
      - x1  
    * - 10
      - Screw Pack
-     - x1  
+     - x2  
    * - 11
      - M3 Gasket
-     - x5   
+     - x10   
    * - 12
      - M2 Plastic Column
      - x5  
    * - 13
      - Bearings
      - x2  
+   * - 14
+     - Cable ties
+     - x4  
 
 ----
 
@@ -122,6 +125,12 @@ Supporting voice interaction, facial expression display, and gesture control, it
 
 More than just a desktop electronic pet, it is a programmable AI terminal—ideal for geeks, educators, and AI enthusiasts.
 Resource Download
+
+**Powerful Development Board**
+
+- The main control board features a high-performance ESP32-S3 main control chip, equipped with 16MB Flash and 8MB PSRAM, and a high-performance, low-power Wi-Fi + Bluetooth dual-mode MCU module.
+
+- Employs an Xtensa® 32-bit LX7 dual-core processor, easily handling the needs of graphical interface display, multitasking, wireless communication, and AIoT application development.
 
 **Intelligent Interaction Methods**
 

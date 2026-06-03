@@ -14,7 +14,7 @@ Video Tutorial
 
 The video tutorial is available on our official YouTube channel. You can watch the assembly process step by step and follow along with the instructions.
 
-Illustrated tutorial
+Illustrated Tutorial
 ---------------------
 
 The illustrated tutorial provides a step-by-step guide with images to help you through the assembly process. Each step is accompanied by detailed instructions and visuals to ensure that you can easily follow along.
