@@ -59,7 +59,7 @@ Register an account
 Configure network for device
 ----------------------------
 
-1. After flashing the program onto the main control board, press the "RST" key. The program will start running, and after a short wait, the screen will display "Wi-Fi Configuration Mode".
+1. After flashing the program onto the main control board, press the **RST** key. The program will start running, and after a short wait, the screen will display "Wi-Fi Configuration Mode".
 
 .. image:: _static/xiaozhi/7.xiaozhi.png
    :width: 800
@@ -69,7 +69,7 @@ Configure network for device
 
    <div style="margin-top: 30px;"></div>
 
-2. Turn on your phone's Wi-Fi, find and connect to a hotspot whose name starts with "Xiaozhi-xxxx".
+2. Turn on your phone's Wi-Fi, find and connect to a hotspot whose name starts with **Xiaozhi-xxxx** .
 
 .. image:: _static/xiaozhi/8.xiaozhi.png
    :width: 400
@@ -81,7 +81,7 @@ Configure network for device
 
 3. After connecting to the hotspot, you will be automatically redirected to the network configuration page.
 
-    - If you are not automatically redirected, open a web browser and enter "http://192.168.4.1" in the address bar to access the network configuration page.
+    - If you are not automatically redirected, open a web browser and enter **http://192.168.4.1** in the address bar to access the network configuration page.
 
 4. On the network configuration page, select your Wi-Fi network and enter the password to connect.
    
@@ -89,16 +89,55 @@ Configure network for device
    :width: 800
    :align: center
 
-.. attention:: Note
+.. raw:: html
+
+   <div style="margin-top: 30px;"></div>
+
+.. attention:: 
 
    - If the Wi-Fi network you want to connect to is not displayed, click the "Refresh" button to scan for available Wi-Fi networks again.
    - If you can't find the Wi-Fi network you want to connect to below, simply enter the Wi-Fi name and password above.
    - If the Wi-Fi network has no password, simply click "Connect" without entering a password.
 
-
 5. After successfully connecting to the Wi-Fi, the screen will display "Wi-Fi Connected". You can now use the device with network connectivity.
 
 ----
+
+Add device
+-----------
+
+1. After logging in Xiaozhi, click the “Add Device” button on the console page.
+
+.. image:: _static/xiaozhi/6.xiaozhi.png
+   :width: 800
+   :align: center
+
+.. raw:: html
+
+   <div style="margin-top: 30px;"></div>
+
+2. Enter the 6-digit pairing code displayed on the screen.
+
+.. image:: _static/xiaozhi/10.xiaozhi.gif
+   :width: 800
+   :align: center
+
+.. raw:: html
+
+   <div style="margin-top: 30px;"></div>
+
+3. Select the "Open Source" version to get started.
+
+.. image:: _static/xiaozhi/11.xiaozhi.png
+   :width: 800
+   :align: center
+
+.. raw:: html
+
+    <div style="margin-top: 30px;"></div>
+
+----
+
 
 
 
