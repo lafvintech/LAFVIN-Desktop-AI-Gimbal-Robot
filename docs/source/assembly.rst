@@ -313,8 +313,8 @@ Servo Calibration Tutorial
 -------------------------
 
 
-Troubleshooting Assembly
-------------------------
+QFA For Assembly 
+----------------
 
 This section summarizes common problems that may occur during assembly and installation, and provides corresponding solutions.
 

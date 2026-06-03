@@ -181,7 +181,7 @@ Configure roles
 .. raw:: html
 
     <div style="margin-top: 30px;"></div>
-    
+
 3. Click the “Save” button to save the role configuration.
 
 .. image:: _static/xiaozhi/13.xiaozhi.png
@@ -198,8 +198,10 @@ Configure roles
 
 **Now you can have a conversation with your personalized AI assistant!**
 
-Troubleshooting and FAQs
-------------------------
+----
+
+QFA For Xiaozhi Configure
+-------------------------
 
 - If the website link does not open, verify that your browser has network access and use the exact URL: `https://xiaozhi.me/`.
 - If the registration SMS code is not received, check your phone number format, country selection, and network coverage. Try requesting the code again after a short wait.
