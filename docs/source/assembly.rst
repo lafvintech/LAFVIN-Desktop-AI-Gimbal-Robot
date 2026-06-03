@@ -26,23 +26,22 @@ STEP 1: Assemble the Base
 
 - Main control board
 - Acrylic base plate
-- M3x10mm screws
-- M3x23mm brass pillars
-- M3 washers
+- M3x10mm screws (4 PCS)
+- M3x23mm brass pillars (4 PCS)
+- M3 washers (4 PCS)
+- 18650 battery (not included)
+
 
 **Assembly Steps:**
 
-1. Place the acrylic base plate on a flat surface.
+1. Place the main control board on the acrylic base plate, aligning it with the holes.
 
-2. Place the main control board on the acrylic base plate, aligning it with the holes.
+2. Pass the M3x10mm screws through the holes in the acrylic base plate and place the M3 washers in the screws.
 
-3. Pass the M3x10mm screws through the holes in the acrylic base plate and place the M3 washers in the screws.
+3. Align the four positioning holes on the main control board and place it in the screws, then place the M3x23mm copper posts and tighten.
 
-4. Align the four positioning holes on the main control board and place it in the screws, then place the M3x23mm copper posts and tighten.
+4. Install a fully charged 1860 battery into the battery compartment on the main control board, paying attention to the positive and negative terminals. Batteries are not included in the package; please provide your own.
 
-5. After tightening all screws, double-check that the main control board is securely fixed to the acrylic base plate and that there are no loose parts.
-
-6. The base assembly is complete! You can proceed to the next step of assembly.
 
 .. image:: _static/assembly/1.base.png
    :width: 800
@@ -58,10 +57,10 @@ STEP 2: Assemble the gimbal base
 - Acrylic top cover
 - Metal gimbal base plate
 - Servo motor slotted arm
-- M3x10mm screws (4 pieces)
-- M3 nuts (4 pieces)
-- M1.5x5 self-tapping screws (2 pieces)
-- M3 washers
+- M3x10mm screws (4 PCS)
+- M3 nuts (4 PCS)
+- M1.5x5mm self-tapping screws (2 PCS)
+- M3 washers (4 PCS)
 
 **Assembly Steps:**
 
@@ -73,18 +72,90 @@ STEP 2: Assemble the gimbal base
 
 4. Align the hole on the metal universal joint base with the screw, then install the M3 nut and tighten it.
 
-5. After tightening all screws, double-check that the metal universal joint base is securely fixed to the acrylic top cover and that there are no loose parts.
-
-6. The universal joint base assembly is complete! You can proceed to the next assembly step.
-
 .. image:: _static/assembly/2.gimbal.png
    :width: 800
    :align: center
 
 ----
 
-STEP 3: Connect the Data Cable
+STEP 3: Assemble the gesture module
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+**Required components:**
+
+- Gesture recognition module
+- Metal horizontal servo bracket
+- M3x8mm screws (1 PCS)
+
+**Assembly Steps:**
+
+1. Align the holes on the gesture recognition module with the holes on the metal horizontal servo bracket.        
+2. Pass an M3x8mm screw through the holes and tighten it to secure the gesture recognition module to the metal horizontal servo bracket.
+
+.. image:: _static/assembly/3.gesture.png
+   :width: 800
+   :align: center
+
+----
+
+STEP 4: Assemble horizontal servo
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Required components:**
+
+- Metal horizontal servo bracket with gesture module assembled
+- MG90S servo
+- M2x8mm screw (2 PCS)
+- M2 nut (2 PCS)
+
+**Assembly Steps:**
+
+1. Align the holes on the MG90S servo with the holes on the metal horizontal servo bracket.
+2. Pass an M2x8mm screw through the holes and install an M2 nut on the screw, then tighten it to secure the MG90S servo to the metal horizontal servo bracket.
+
+.. image:: _static/assembly/4.horizontal.png
+   :width: 800
+   :align: center
+
+.. attention::
+ 
+ Note the installation direction of the servo: the end of the servo with the wiring harness should be installed facing backwards.
+
+----
+
+
+STEP 5: Assemble screen support columns
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Required components:**
+
+- Metal horizontal servo bracket
+- Metal screen bracket
+- M3x8mm screws (4 PCS)
+- M3x10mm copper pillars (4 PCS)
+
+**Assembly Steps:**
+
+1. Align the holes on the metal screen bracket with the holes on the metal horizontal servo bracket.
+2. Pass an M3x8mm screw through the holes and install an M3x10mm copper pillar on the screw, then tighten it to secure the metal screen bracket to the metal horizontal servo bracket.          
+
+.. image:: _static/assembly/5.screen.png
+   :width: 800
+   :align: center
+
+----
+
+STEP 6: Assemble vertical servo
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Required components:**
+
+- Metal horizontal servo bracket assembled with screen support
+- MG90S servo
+- M2x8mm screw (2 PCS)
+- M2 nut (2 PCS)
+
+**Assembly Steps:**
 
 
 
