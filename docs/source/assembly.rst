@@ -113,6 +113,7 @@ STEP 4: Assemble horizontal servo
 1. Align the holes on the MG90S servo with the holes on the metal horizontal servo bracket.
 2. Pass an M2x8mm screw through the holes and install an M2 nut on the screw, then tighten it to secure the MG90S servo to the metal horizontal servo bracket.
 3. Note the installation direction of the servo: the end of the servo with the wiring harness should be installed facing backwards.
+
 .. image:: _static/assembly/4.horizontal.png
    :width: 800
    :align: center
