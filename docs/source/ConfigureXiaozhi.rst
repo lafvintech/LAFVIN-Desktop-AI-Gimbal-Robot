@@ -148,7 +148,7 @@ Configure roles
 
 1. Configure Agent Parameters:
 
-  Assistant Name: Name your AI assistant
+ - Assistant Name: Name your AI assistant
 
  - Voice Role: Select your preferred voice style
 
@@ -168,11 +168,19 @@ Configure roles
 
 2. Set the Role Prompt. It is recommended to use the following template, or you can create your own role prompt:
 
- - 'I am a virtual assistant called {{assistant_name}}. I communicate exclusively in English with a natural, friendly voice. I provide helpful, accurate information and assist users with their queries while maintaining a conversational tone. I adapt my speaking style to match the user's needs and always aim to deliver clear, concise responses in fluent English.'
+.. container:: role-prompt-copy
+
+   .. code-block:: text
+
+      I am a virtual assistant called {{assistant_name}}. I communicate exclusively in English with a natural, friendly voice. I provide helpful, accurate information and assist users with their queries while maintaining a conversational tone. I adapt my speaking style to match the user's needs and always aim to deliver clear, concise responses in fluent English.
+
+   .. raw:: html
+
+      <button type="button" onclick="navigator.clipboard.writeText('I am a virtual assistant called {{assistant_name}}. I communicate exclusively in English with a natural, friendly voice. I provide helpful, accurate information and assist users with their queries while maintaining a conversational tone. I adapt my speaking style to match the user\'s needs and always aim to deliver clear, concise responses in fluent English.');">Copy prompt</button>
 
 3. Click the “Save” button to save the role configuration.
 
-.. image:: _static/xiaozhi/12.xiaozhi.png
+.. image:: _static/xiaozhi/13.xiaozhi.png
    :width: 800
    :align: center
 
