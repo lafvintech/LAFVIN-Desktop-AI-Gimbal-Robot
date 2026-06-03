@@ -18,5 +18,9 @@ LAFVIN Desktop AI Gimbal Robot
    :maxdepth: 2
    :caption: Quick Start Guide
 
+   ConfigureXiaozhi
+   FunctionUsageGuide
+
+
 
 
