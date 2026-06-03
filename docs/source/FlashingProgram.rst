@@ -59,7 +59,15 @@ Step 4: Select the Firmware
 
 Select the corresponding firmware as shown in the images below.
 
-.. image:: _static/flash/2.select.png
+.. image:: _static/flash/5.固件.png
+   :width: 800
+   :align: center   
+
+.. raw:: html
+
+   <div style="margin-top: 30px;"></div>
+
+.. image:: _static/flash/6.固件.png
    :width: 800
    :align: center   
 
@@ -69,9 +77,18 @@ Step 5: Start Flashing
 ~~~~~~~~~~~~~~~~~~~~~~
 Click the "Flash" button to start the flashing process. The progress will be displayed on the screen, and once completed, you can disconnect the device and start using it.
 
-.. image:: _static/flash/3.flash.png
+.. image:: _static/flash/7.烧录.png
    :width: 800
-   :align: center
+   :align: center   
+
+.. raw:: html
+
+   <div style="margin-top: 30px;"></div>
+
+.. image:: _static/flash/8.烧录.png
+   :width: 800
+   :align: center   
+   
 
 ----
 
