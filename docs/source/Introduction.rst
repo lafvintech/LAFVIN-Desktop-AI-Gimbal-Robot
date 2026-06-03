@@ -105,8 +105,12 @@ Technical Parameters
      - TYPE-C 5V/2A
    * - Main Control Chip
      - ESP32-S3 N16R8
+   * - Power Amplifier Chip
+     - MAX98357AETE+T
+   * - Microphone Model
+     - Digital I2S output
    * - Servo Model
-     - MG90S Micro Servo
+     - MG90S Servo
    * - Screen Model
      - SSD1306 0.96 Inch OLED Display
    * - Gesture Module Signal
