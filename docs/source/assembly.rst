@@ -1,5 +1,5 @@
-Assembly Tutorial
-=================
+2.Assembly Tutorial
+====================
 
 **This chapter will explain the assembly process of the AI ​​gimbal robot and provide video and text tutorials, which you can choose to view according to your needs.**
 

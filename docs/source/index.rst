@@ -9,8 +9,14 @@ LAFVIN Desktop AI Gimbal Robot
 
 .. toctree::
    :maxdepth: 2
-   :caption: Quick Start Guide
+   :caption: Preparation Before Use
 
    FlashingProgram
    assembly
    
+.. toctree::
+   :maxdepth: 2
+   :caption: Quick Start Guide
+
+
+

@@ -1,5 +1,5 @@
-Flash The Firmware
-==================
+1. Flash The Firmware
+=====================
 
 **This product was not pre-programmed at the time of shipment. To use it, you will need to flash the program yourself. Please follow the instructions below to complete the flashing process.**
 
