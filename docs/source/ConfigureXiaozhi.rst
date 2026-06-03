@@ -178,6 +178,10 @@ Configure roles
 
       <button type="button" onclick="navigator.clipboard.writeText('I am a virtual assistant called {{assistant_name}}. I communicate exclusively in English with a natural, friendly voice. I provide helpful, accurate information and assist users with their queries while maintaining a conversational tone. I adapt my speaking style to match the user\'s needs and always aim to deliver clear, concise responses in fluent English.');">Copy prompt</button>
 
+.. raw:: html
+
+    <div style="margin-top: 30px;"></div>
+    
 3. Click the “Save” button to save the role configuration.
 
 .. image:: _static/xiaozhi/13.xiaozhi.png
