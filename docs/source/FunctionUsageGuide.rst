@@ -22,7 +22,7 @@ Intelligent AI voice dialogue
  - "Tell me a story"
  - "What is your favorite color?"
  - "What is the weather like tomorrow?"
- - ............
+............
 
 - With the servo gimbal, you can also say: 
 
@@ -31,7 +31,7 @@ Intelligent AI voice dialogue
  - Shaking head left and right
  - Look up
  - Nod
- - ............
+............
 
 ----
 
@@ -41,10 +41,11 @@ Emoticon Mode
 **After the robot is powered on, it defaults to conversation mode. You can enter expression mode by long-pressing the "BOOT" button. In this mode, the robot will respond to your voice commands by displaying corresponding emoticons on its OLED screen. This allows for a fun and interactive way to express emotions through the robot. You can switch back to conversation mode by long-pressing the "BOOT" button again.**
 
 - In Emoticon Mode,you can say:
+
  - "Show me a happy face"
  - "Show me a sad face"
  - "Play badminton animation"
  - "Play Face ID animation"
- - .......
+............
 
 ----
