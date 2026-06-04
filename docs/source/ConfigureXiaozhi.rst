@@ -214,3 +214,4 @@ QFA For Xiaozhi Configure
 
 For any persistent issues, refer to the Xiaozhi documentation and support resources, or retry the setup steps from the beginning to confirm each stage was completed correctly.
 
+----
