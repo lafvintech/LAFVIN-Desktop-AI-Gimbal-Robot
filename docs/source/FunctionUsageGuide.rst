@@ -22,7 +22,7 @@ Intelligent AI voice dialogue
  - "Tell me a story"
  - "What is your favorite color?"
  - "What is the weather like tomorrow?"
-............
+…
 
 - With the servo gimbal, you can also say: 
 
@@ -31,7 +31,7 @@ Intelligent AI voice dialogue
  - Shaking head left and right
  - Look up
  - Nod
-............
+…
 
 ----
 
@@ -46,6 +46,6 @@ Emoticon Mode
  - "Show me a sad face"
  - "Play badminton animation"
  - "Play Face ID animation"
-............
+…
 
 ----
