@@ -94,7 +94,7 @@ For example, you can swipe left to turn the gimbal to the left, or draw a circle
 FAQ For Function Usage Guide
 ----------------------------
 
-​**How ​​to switch operating modes after powering on?**
+**​How ​​to switch operating modes after powering on?**
 
 - Press and hold the `BOOT` button to switch between Conversation mode and Emoticon mode. Powering on defaults to Conversation mode.
 
