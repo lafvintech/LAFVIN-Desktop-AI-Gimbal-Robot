@@ -89,7 +89,7 @@ This robot is equipped with a gesture recognition system that understands and re
 
  - Distinguish between "forward" and "backward": This refers to vertical pushing/pulling (approaching/moving away from the sensor), not horizontal sliding.
 
- - Avoid strong light: Avoid using the device in direct sunlight or under strong halogen lamps to prevent interference with the infrared signal.
+ - Avoid strong light: Avoid using the device in direct sunlight or under strong lights to prevent interference with the infrared signal.
 
 ----
 
