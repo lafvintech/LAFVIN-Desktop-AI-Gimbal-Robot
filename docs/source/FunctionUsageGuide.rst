@@ -49,3 +49,48 @@ Emoticon Mode
 …
 
 ----
+
+Gesture Recognition
+-------------------
+
+This robot is equipped with a gesture recognition system that understands and responds to specific gestures. With this feature, you can control the gimbal's direction without using voice commands. You can make various gestures in front of the gesture recognition module, and it will recognize and execute the corresponding functions.
+
+- Supported gestures include:
+
+- "Swipe left"
+
+- "Swipe right"
+
+- "Swipe up"
+
+- "Swipe down"
+
+- "Circle clockwise"
+
+- "Circle counterclockwise"
+
+- "Push palm forward"
+
+- "Push palm forward"
+
+- "Quick wave"
+
+- For example, you can swipe left to turn the gimbal to the left, or draw a circle clockwise to display various expressions on the OLED screen. The gesture recognition system provides an intuitive way to interact with the robot and control its behavior in real time.
+
+.. attention:: 
+
+  To ensure accurate recognition by the PAJ7620U2 module when making gestures, please note the following:
+
+ - Control the distance: Place your hand 5cm to 15cm directly above the sensor. Too close or too far will easily lead to recognition failure.
+
+ - Control the speed: The movement should be crisp and steady. Avoid moving too slowly (like a snail's pace), but a normal speed is sufficient; extreme speed is unnecessary.
+
+ - Complete the circles: When making clockwise or counterclockwise gestures, at least two complete circles need to be completed consecutively.
+
+ - Distinguish between "forward" and "backward": This refers to vertical pushing/pulling (approaching/moving away from the sensor), not horizontal sliding.
+
+ - Avoid strong light: Avoid using the device in direct sunlight or under strong halogen lamps to prevent interference with the infrared signal.
+
+----
+
+
