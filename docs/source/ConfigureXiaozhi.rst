@@ -200,7 +200,7 @@ Configure roles
 
 ----
 
-QFA For Xiaozhi Configure
+FAQ For Xiaozhi Configure
 -------------------------
 
 - If the website link does not open, verify that your browser has network access and use the exact URL: `https://xiaozhi.me/`.

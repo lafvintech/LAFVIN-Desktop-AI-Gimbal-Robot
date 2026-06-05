@@ -150,7 +150,7 @@ Click the "Start" button to begin the flashing process. The progress will be dis
 
 ----
 
-QFA For Flashing Program
+FAQ For Flashing Program
 ------------------------
 
 If you encounter issues with flashing or the flashing process fails, please perform the following self-check steps:
