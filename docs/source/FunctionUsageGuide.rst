@@ -91,14 +91,14 @@ For example, you can swipe left to turn the gimbal to the left, or draw a circle
 
 ----
 
-Frequently Asked Questions 
-
------------------
+FAQ For Function Usage Guide
+----------------------------
 
 ​**How ​​to switch operating modes after powering on?**
 
 - Press and hold the `BOOT` button to switch between Conversation mode and Emoticon mode. Powering on defaults to Conversation mode.
 
+----
 
 **What to do if voice commands are not recognized or are unresponsive?**
 
@@ -108,6 +108,7 @@ Frequently Asked Questions
 
 - If there is still no response, restart the device and check the serial port/log for error information.
 
+----
 
 **How ​​to improve the recognition rate when gesture recognition frequently fails?**
 
@@ -119,10 +120,13 @@ Frequently Asked Questions
 
 - Avoid direct sunlight on the sensor; keep the sensor surface clean.
 
+----
 
 **What to do if the OLED screen does not display or displays abnormally?** 
 
 - Check that the power supply and connection cables are secure.
+
+----
 
 **How ​​to troubleshoot servo motors that are not moving or vibrating?**
 
@@ -132,17 +136,25 @@ Frequently Asked Questions
 
 - If the position is off or stuck, perform servo limit/zero point calibration and check the mechanical limits.
 
+----
+
 **How ​​to make the robot execute voice commands such as head shaking?**
 
 - Use example phrases directly in conversation mode (e.g., "Shake your head left/right", "Scan left, right, and up").
+
+----
 
 **How ​​to restore factory settings or reset the device?**
 
 - This document does not define a one-button restore procedure. To clear the configuration, you can re-flash the factory firmware.
 
+----
+
 **Which languages ​​are supported?**
 
 - This project is compatible with Xiaozhi AI and supports multiple languages. Specific supported languages ​​depend on the configured voice service and model.
+
+----
 
 **What safety precautions should be taken when using the device?**
 
@@ -152,6 +164,7 @@ Frequently Asked Questions
 
 - Do not apply additional loads to the servo motor or force it to move beyond its mechanical limits.
 
-***
+----
+
 
 
