@@ -3,8 +3,6 @@ Function Usage Guide
 
 **This section explains how to use the LAFVIN Desktop AI Gimbal Robot through its main functions and real operating workflows. It covers gesture recognition, OLED display interaction, servo control, Follow this guide when configuring the system, running demos, and troubleshooting common issues to make the most of your robot.**
 
-----
-
 Intelligent AI voice dialogue
 -----------------------------
 
@@ -75,7 +73,7 @@ This robot is equipped with a gesture recognition system that understands and re
 
 - "Quick wave"
 
-- For example, you can swipe left to turn the gimbal to the left, or draw a circle clockwise to display various expressions on the OLED screen. The gesture recognition system provides an intuitive way to interact with the robot and control its behavior in real time.
+For example, you can swipe left to turn the gimbal to the left, or draw a circle clockwise to display various expressions on the OLED screen. The gesture recognition system provides an intuitive way to interact with the robot and control its behavior in real time.
 
 .. attention:: 
 
@@ -92,5 +90,68 @@ This robot is equipped with a gesture recognition system that understands and re
  - Avoid strong light: Avoid using the device in direct sunlight or under strong lights to prevent interference with the infrared signal.
 
 ----
+
+Frequently Asked Questions 
+
+-----------------
+
+​**How ​​to switch operating modes after powering on?**
+
+- Press and hold the `BOOT` button to switch between Conversation mode and Emoticon mode. Powering on defaults to Conversation mode.
+
+
+**What to do if voice commands are not recognized or are unresponsive?**
+
+- Check if the network or voice service (such as Xiaozhi AI) is available and correctly configured.
+
+- Speak in a quiet environment to avoid excessive background noise.
+
+- If there is still no response, restart the device and check the serial port/log for error information.
+
+
+**How ​​to improve the recognition rate when gesture recognition frequently fails?**
+
+- Please refer to the precautions in the gesture recognition section:
+
+- Place your hand 5–15cm above the sensor; too close or too far will affect recognition.
+
+- Move your hand decisively and at a moderate speed; circular gestures require at least two consecutive circles.
+
+- Avoid direct sunlight on the sensor; keep the sensor surface clean.
+
+
+**What to do if the OLED screen does not display or displays abnormally?** 
+
+- Check that the power supply and connection cables are secure.
+
+**How ​​to troubleshoot servo motors that are not moving or vibrating?**
+
+- Ensure the power supply provides sufficient current (do not rely solely on USB power when operating multiple servos).
+
+- Check that the servo signal cables and wiring sequence are correct.
+
+- If the position is off or stuck, perform servo limit/zero point calibration and check the mechanical limits.
+
+**How ​​to make the robot execute voice commands such as head shaking?**
+
+- Use example phrases directly in conversation mode (e.g., "Shake your head left/right", "Scan left, right, and up").
+
+**How ​​to restore factory settings or reset the device?**
+
+- This document does not define a one-button restore procedure. To clear the configuration, you can re-flash the factory firmware.
+
+**Which languages ​​are supported?**
+
+- This project is compatible with Xiaozhi AI and supports multiple languages. Specific supported languages ​​depend on the configured voice service and model.
+
+**What safety precautions should be taken when using the device?**
+
+- Avoid touching the servos directly with your hands while they are moving.
+
+- Do not use the equipment in high temperature or humid environments. Avoid water ingress and short circuits.
+
+- Do not apply additional loads to the servo motor or force it to move beyond its mechanical limits.
+
+***
 
 
