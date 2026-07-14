@@ -126,6 +126,14 @@ STEP 3: Assemble The Gesture Module
    :width: 800
    :align: center
 
+.. raw:: html
+
+   <div style="margin-top: 30px;"></div>
+
+.. attention::
+
+ The holes in the sheet metal are threaded, so the component can be secured simply by tightening the screws; no nuts are required.
+
 ----
 
 STEP 4: Assemble Horizontal Servo
