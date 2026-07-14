@@ -47,14 +47,14 @@ Bill of Materials
      - 0.96 Inch OLED Display
      - x1
    * - 5
-     - Acrylic Base Plate
+     - Custom Acrylic Panels
      - x2
    * - 6
-     - Gimbal Sheet Metal
+     - Custom Gimbal Sheet Metal Parts
      - x4
    * - 7
      - 4-Pin Connection Cable
-     - x2
+     - x3
    * - 8
      - Type-C Data Cable
      - x1
@@ -63,19 +63,10 @@ Bill of Materials
      - x1  
    * - 10
      - Screw Pack
-     - x2  
-   * - 11
-     - M3 Gasket
-     - x10   
-   * - 12
-     - M2 Plastic Column
      - x5  
-   * - 13
-     - Bearings
-     - x2  
-   * - 14
+   * - 11
      - Cable ties
-     - x4  
+     - x3 
 
 ----
 
@@ -147,15 +138,6 @@ Resource Download
 **Flexible Athletic Ability**
 
 - 2-DOF Gimbal: Equipped with two MG90S servos, it can perform smooth pan and tilt movements, allowing it to "look around" and "nod" in response to interactions.
-
-----
-
-Resource Downloads
-------------------
-
-All the necessary code and library files for this course are provided. You can obtain all the resources through the following link.
-
-`Flash Download Tool <https://www.dropbox.com/scl/fo/r81afjixw65y88jikwxno/AM8XTGDtfcEJDgN0jHyMbRY?rlkey=4lvaoh0axd9nhvk9al7qukoi5&st=1hqtehms&dl=1>`_
 
 ----
 
