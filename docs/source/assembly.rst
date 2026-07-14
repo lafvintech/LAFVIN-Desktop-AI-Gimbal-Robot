@@ -24,7 +24,7 @@ STEP 1: Assemble the Base
 
 - Main control board
 - Acrylic base plate
-- M3x10mm screws (4 PCS)
+- M3x12mm screws (4 PCS)
 - M3x23mm brass pillars (4 PCS)
 - M3 washers (4 PCS)
 - 18650 battery (not included)
@@ -34,16 +34,28 @@ STEP 1: Assemble the Base
 
 1. Place the main control board on the acrylic base plate, aligning it with the holes.
 
-2. Pass the M3x10mm screws through the holes in the acrylic base plate and place the M3 washers in the screws.
-
-3. Align the four positioning holes on the main control board and place it in the screws, then place the M3x23mm copper posts and tighten.
-
-4. Install a fully charged 1860 battery into the battery compartment on the main control board, paying attention to the positive and negative terminals. Batteries are not included in the package; please provide your own.
-
+2. Pass the M3x12mm screws through the holes in the acrylic base plate and place the M3 washers in the screws.
 
 .. image:: _static/assembly/1.base.png
    :width: 800
    :align: center
+
+.. raw:: html
+
+   <div style="margin-top: 30px;"></div>
+
+3. Align the four positioning holes on the main control board and place it in the screws, then place the M3x23mm copper posts and tighten.
+
+.. image:: _static/assembly/1.base2.png
+   :width: 800
+   :align: center
+
+.. raw:: html
+
+   <div style="margin-top: 30px;"></div>
+
+
+4. Install a fully charged 18650 battery into the battery compartment on the main control board, paying attention to the positive and negative terminals. Batteries are not included in the package; please provide your own.
 
 ----
 
