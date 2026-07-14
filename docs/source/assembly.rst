@@ -186,7 +186,7 @@ STEP 5: Assemble Screen Support Columns
 
 2. Pass an M3x6mm screw through the holes and install an M3x10mm copper pillar on the screw, then tighten it to secure the metal screen bracket to the metal horizontal servo bracket.          
 
-.. image:: _static/assembly/5.screen.png
+.. image:: _static/assembly/5.screen2.png
    :width: 800
    :align: center
 
