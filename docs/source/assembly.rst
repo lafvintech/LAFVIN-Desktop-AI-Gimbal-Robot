@@ -9,15 +9,13 @@
             
       Before assembly, please make sure to flash the program onto the main control board to ensure that subsequent servo calibration can proceed normally. If you have not yet completed the flashing process, please refer to the `Flashing Program <FlashingProgram.html>`_ chapter for detailed instructions on how to flash the firmware onto the main control board.
 
-Video Tutorial
-----------------
+**Video Tutorial**
 
-The video tutorial is available on our official YouTube channel. You can watch the assembly process step by step and follow along with the instructions.
+- The video tutorial is available on our official YouTube channel. You can watch the assembly process step by step and follow along with the instructions.
 
-Illustrated Tutorial
----------------------
+**Illustrated Tutorial**
 
-The illustrated tutorial provides a step-by-step guide with images to help you through the assembly process. Each step is accompanied by detailed instructions and visuals to ensure that you can easily follow along.
+- The illustrated tutorial provides a step-by-step guide with images to help you through the assembly process. Each step is accompanied by detailed instructions and visuals to ensure that you can easily follow along.
    
 STEP 1: Assemble the Base
 --------------------------
