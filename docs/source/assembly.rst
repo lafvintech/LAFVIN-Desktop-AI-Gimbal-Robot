@@ -67,7 +67,7 @@ STEP 2: Assemble The Gimbal Base
 - Acrylic top cover
 - Metal gimbal base plate
 - Servo arm (straight arm)
-- M3x10mm screws (4 PCS)
+- M3x12mm screws (4 PCS)
 - M3 nuts (4 PCS)
 - M1.5x5mm self-tapping screws (2 PCS)
 - M3 washers (4 PCS)
@@ -76,15 +76,35 @@ STEP 2: Assemble The Gimbal Base
 
 1. Align the servo arm with the holes on the metal gimbal base and secure it using M1.5x5 self-tapping screws.
 
+.. image:: _static/assembly/2.baibi.png
+   :width: 800
+   :align: center
+
+.. raw:: html
+
+   <div style="margin-top: 30px;"></div>
+
 2. Place the assembled servo arm metal universal joint base onto the acrylic top cover, aligning it with the holes.
 
-3. Pass an M3x10mm screw through the hole on the acrylic top cover and install an M3 washer on the screw.
+3. Pass an M3x12mm screw through the hole on the acrylic top cover and install an M3 washer on the screw.
+
+.. image:: _static/assembly/2.gaiban.png
+   :width: 800
+   :align: center
+
+.. raw:: html
+
+   <div style="margin-top: 30px;"></div>
 
 4. Align the hole on the metal universal joint base with the screw, then install the M3 nut and tighten it.
 
-.. image:: _static/assembly/2.gimbal.png
+.. image:: _static/assembly/2.gaiban2.png
    :width: 800
    :align: center
+
+.. raw:: html
+
+   <div style="margin-top: 30px;"></div>
 
 ----
 
