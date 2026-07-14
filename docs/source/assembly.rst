@@ -322,8 +322,8 @@ STEP 9: Assembling The Gimbal And Base
 
 ----
 
-STEP 10: Assemble The Acrylic Cover Plate.
--------------------------------------------
+STEP 10: Assemble The Acrylic Cover Plate
+------------------------------------------
 
 **Required components:**
 
