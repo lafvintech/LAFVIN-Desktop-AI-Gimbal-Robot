@@ -295,8 +295,8 @@ STEP 8: Assemble Screen
 
 ----
 
-STEP 9: Assemble The Gimbal Base and Servo Motor Together
-----------------------------------------------------------
+STEP 9: Assembling The Gimbal And Base
+---------------------------------------
 
 **Required components:**
 
@@ -322,8 +322,8 @@ STEP 9: Assemble The Gimbal Base and Servo Motor Together
 
 ----
 
-STEP 10: Assemble The Acrylic Base And The Top Cover Together
--------------------------------------------------------------
+STEP 10: Assemble The Acrylic Cover Plate.
+-------------------------------------------
 
 **Required components:**
 
@@ -377,8 +377,8 @@ Click here to view the user guide. After ensuring that it is working properly, u
 
 ----
 
-Step 13: Servo Calibration Tutorial
-------------------------------------
+Servo Calibration Tutorial
+---------------------------
 
 
 FAQ For Assembly 
@@ -405,13 +405,3 @@ This section summarizes common problems that may occur during assembly and insta
 If the problem persists after trying the above methods, please collect the following information and contact technical support: a clear photo of the assembly, a short video demonstrating the problem, console logs or flash output, and the firmware version installed.
 
 ----
-
-
-
-
-
-
-
-
-
-
