@@ -20,7 +20,7 @@ Illustrated Tutorial
 The illustrated tutorial provides a step-by-step guide with images to help you through the assembly process. Each step is accompanied by detailed instructions and visuals to ensure that you can easily follow along.
    
 STEP 1: Assemble the Base
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+--------------------------
 
 **Required components:**
 
@@ -49,8 +49,8 @@ STEP 1: Assemble the Base
 
 ----
 
-STEP 2: Assemble the gimbal base
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+STEP 2: Assemble The Gimbal Base
+--------------------------------
 
 **Required components:**
 
@@ -78,8 +78,8 @@ STEP 2: Assemble the gimbal base
 
 ----
 
-STEP 3: Assemble the gesture module
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+STEP 3: Assemble The Gesture Module
+------------------------------------
 
 **Required components:**
 
@@ -98,8 +98,8 @@ STEP 3: Assemble the gesture module
 
 ----
 
-STEP 4: Assemble horizontal servo
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+STEP 4: Assemble Horizontal Servo
+---------------------------------
 
 **Required components:**
 
@@ -120,8 +120,8 @@ STEP 4: Assemble horizontal servo
 
 ----
 
-STEP 5: Assemble screen support columns
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+STEP 5: Assemble Screen Support Columns
+---------------------------------------
 
 **Required components:**
 
@@ -141,8 +141,8 @@ STEP 5: Assemble screen support columns
 
 ----
 
-STEP 6: Assemble vertical servo
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+STEP 6: Assemble Vertical Servo
+-------------------------------
 
 **Required components:**
 
@@ -163,8 +163,8 @@ STEP 6: Assemble vertical servo
 
 ----
 
-STEP 7: Combine the two servos
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+STEP 7: Combine The Two Servos
+------------------------------
 
 .. attention::
 
@@ -206,8 +206,8 @@ STEP 7: Combine the two servos
 
 ----
 
-STEP 8: Assemble screen
-~~~~~~~~~~~~~~~~~~~~~~~~
+STEP 8: Assemble Screen
+-----------------------
 
 **Required components:**
 
@@ -227,8 +227,8 @@ STEP 8: Assemble screen
 
 ----
 
-STEP 9: Assemble the gimbal base and servo motor together.
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+STEP 9: Assemble The Gimbal Base and Servo Motor Together
+----------------------------------------------------------
 
 **Required components:**
 
@@ -254,8 +254,8 @@ STEP 9: Assemble the gimbal base and servo motor together.
 
 ----
 
-STEP 10: Assemble the acrylic base and the top cover together.
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+STEP 10: Assemble The Acrylic Base And The Top Cover Together
+-------------------------------------------------------------
 
 **Required components:**
 
@@ -276,7 +276,7 @@ STEP 10: Assemble the acrylic base and the top cover together.
 ----
 
 Step 11: Wiring
-~~~~~~~~~~~~~~~~~~~~~~~~
+----------------
 
 **Required components:**
 
@@ -292,8 +292,8 @@ Step 11: Wiring
 
 ----
 
-Step 12: Organize the wire harness
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Step 12: Organize The Wire Harness
+----------------------------------
 
 **Required components:**
 
@@ -309,8 +309,8 @@ Click here to view the user guide. After ensuring that it is working properly, u
 
 ----
 
-Servo Calibration Tutorial
--------------------------
+Step 13: Servo Calibration Tutorial
+------------------------------------
 
 
 FAQ For Assembly 
