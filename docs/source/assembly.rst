@@ -115,12 +115,12 @@ STEP 3: Assemble The Gesture Module
 
 - Gesture recognition module
 - Metal horizontal servo bracket
-- M3x8mm screws (1 PCS)
+- M3x6mm screws (1 PCS)
 
 **Assembly Steps:**
 
 1. Align the holes on the gesture recognition module with the holes on the metal horizontal servo bracket.        
-2. Pass an M3x8mm screw through the holes and tighten it to secure the gesture recognition module to the metal horizontal servo bracket.
+2. Pass an M3x6mm screw through the holes and tighten it to secure the gesture recognition module to the metal horizontal servo bracket.
 
 .. image:: _static/assembly/3.gesture.png
    :width: 800
@@ -143,18 +143,22 @@ STEP 4: Assemble Horizontal Servo
 
 - Metal horizontal servo bracket with gesture module assembled
 - MG90S servo
-- M2x8mm screw (2 PCS)
+- M2x12mm screw (2 PCS)
 - M2 nut (2 PCS)
 
 **Assembly Steps:**
 
 1. Align the holes on the MG90S servo with the holes on the metal horizontal servo bracket.
-2. Pass an M2x8mm screw through the holes and install an M2 nut on the screw, then tighten it to secure the MG90S servo to the metal horizontal servo bracket.
+2. Pass an M2x12mm screw through the holes and install an M2 nut on the screw, then tighten it to secure the MG90S servo to the metal horizontal servo bracket.
 3. Note the installation direction of the servo: the end of the servo with the wiring harness should be installed facing backwards.
 
 .. image:: _static/assembly/4.horizontal.png
    :width: 800
    :align: center
+
+.. raw:: html
+
+   <div style="margin-top: 30px;"></div>
 
 ----
 
@@ -165,13 +169,13 @@ STEP 5: Assemble Screen Support Columns
 
 - Metal horizontal servo bracket
 - Metal screen bracket
-- M3x8mm screws (4 PCS)
+- M3x6mm screws (4 PCS)
 - M3x10mm copper pillars (4 PCS)
 
 **Assembly Steps:**
 
 1. Align the holes on the metal screen bracket with the holes on the metal horizontal servo bracket.
-2. Pass an M3x8mm screw through the holes and install an M3x10mm copper pillar on the screw, then tighten it to secure the metal screen bracket to the metal horizontal servo bracket.          
+2. Pass an M3x6mm screw through the holes and install an M3x10mm copper pillar on the screw, then tighten it to secure the metal screen bracket to the metal horizontal servo bracket.          
 
 .. image:: _static/assembly/5.screen.png
    :width: 800
@@ -186,13 +190,13 @@ STEP 6: Assemble Vertical Servo
 
 - Metal horizontal servo bracket assembled with screen support
 - MG90S servo
-- M2x8mm screw (2 PCS)
+- M2x12mm screw (2 PCS)
 - M2 nut (2 PCS)
 
 **Assembly Steps:**
 
 1. Align the holes on the MG90S servo with the holes on the metal horizontal servo bracket assembled with screen support.
-2. Pass an M2x8mm screw through the holes and install an M2 nut on the screw, then tighten it to secure the MG90S servo to the metal horizontal servo bracket assembled with screen support.  
+2. Pass an M2x12mm screw through the holes and install an M2 nut on the screw, then tighten it to secure the MG90S servo to the metal horizontal servo bracket assembled with screen support.  
 3. Note the installation direction of the servo: the end of the servo with the wiring harness should be installed facing backwards.
 
 .. image:: _static/assembly/6.vertical.png
