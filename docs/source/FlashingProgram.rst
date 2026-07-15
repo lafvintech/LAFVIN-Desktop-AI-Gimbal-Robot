@@ -5,10 +5,19 @@
 
 **This chapter aims to introduce the firmware flashing process. To enable you to quickly experience the product's features, two flashing methods are provided; please select the option that best suits your needs.**
 
-Method 1: Online Flashing
--------------------------
+Online Flashing
+----------------
 
-This method allows you to flash the program directly through the online platform without needing to install any additional software on your computer. It is a convenient option for users who prefer a straightforward flashing process.
+- This method allows you to flash the program directly through the online platform without needing to install any additional software on your computer. It is a convenient option for users who prefer a straightforward flashing process.
+
+- Please watch the video below first to learn how to flash the firmware to the main control board：
+
+.. video:: _static/flash/flash.mp4
+    :width: 100%
+
+----
+
+**Below is a detailed step-by-step tutorial with images.**
 
 Step 1: Connect the Device
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
