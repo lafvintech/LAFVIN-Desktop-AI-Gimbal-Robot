@@ -264,7 +264,7 @@ STEP 7: Combine The Two Servos
 
 2. Insert the servo arm through the horizontal servo bracket and connect it to the gear of the vertical servo, and secure it with an M1.5x5mm self-tapping screw.
 
-.. image:: _static/assembly/7.servo.png
+.. image:: _static/assembly/7.servo1.png
    :width: 800
    :align: center
 
@@ -278,12 +278,12 @@ STEP 7: Combine The Two Servos
 
    When installing the vertical and horizontal servos together, maintain an angle of approximately 45° between them, as this angle yields optimal operating performance.
 
- .. image:: _static/assembly/7.servo.png
+.. image:: _static/assembly/7.servo.png
     :width: 800
     :align: center
 
-  .. raw:: html
-
+.. raw:: html
+  
     <div style="margin-top: 30px;"></div>
 
 3. Install the round metal bearing into the round hole on the right side of the horizontal servo bracket.
