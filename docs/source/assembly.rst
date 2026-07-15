@@ -346,16 +346,19 @@ STEP 9: Assembling The Gimbal And Base
 
 1. Insert the gear of the horizontal servo bracket into the servo arm of the gimbal base, and tighten it at the bottom with an M2x4mm screw.
 
+.. image:: _static/assembly/10.ytgb.png
+   :width: 800
+   :align: center
+
+.. raw:: html
+
+   <div style="margin-top: 30px;"></div>
+
 .. attention::
 
  During installation, ensure that the horizontal servo is perpendicular to the gimbal base.
  
- .. image:: _static/assembly/9.final.png
-   :width: 800
-   :align: center
-
-
-.. image:: _static/assembly/9.final.png
+ .. image:: _static/assembly/10.ytgb1.png
    :width: 800
    :align: center
 
