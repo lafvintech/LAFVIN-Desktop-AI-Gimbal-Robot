@@ -308,16 +308,29 @@ STEP 8: Assemble Screen
 - 0.96-inch screen
 - M2 x 12mm screws (4 PCS)
 - M2 nuts (4 PCS)
-- M2 washers (4 PCS)
+- M2.5 x 4mm washers (4 PCS)
 
 **Assembly Steps:**
 
 1. Align the holes on the 0.96-inch screen with the holes on the metal screen bracket.
-2. Pass an M2 x 12mm screw through the holes and install an M2 washer and M2 nut on the screw, then tighten it to secure the 0.96-inch screen to the metal screen bracket.
 
-.. image:: _static/assembly/8.screen.png
+.. image:: _static/assembly/9.display1.png
    :width: 800
    :align: center
+
+.. raw:: html
+
+   <div style="margin-top: 30px;"></div>
+
+2. Pass an M2 x 12mm screw through the holes and install an M2 washer and M2 nut on the screw, then tighten it to secure the 0.96-inch screen to the metal screen bracket.
+
+.. image:: _static/assembly/9.display2.png
+   :width: 800
+   :align: center
+
+.. raw:: html
+
+   <div style="margin-top: 30px;"></div>
 
 ----
 
