@@ -262,15 +262,41 @@ STEP 7: Combine The Two Servos
 
 1. Connect the signal cables of the vertical and horizontal servos to the corresponding servo interfaces on the main control board. Then, turn on the power to allow the servos to automatically reset to their initial positions.
 
-2. Install the round metal bearing into the round hole on the right side of the horizontal servo bracket.
+2. Insert the servo arm through the horizontal servo bracket and connect it to the gear of the vertical servo, and secure it with an M1.5x5mm self-tapping screw.
 
-3. Insert the gear of the vertical servo into the round hole on the left side of the horizontal servo, ensuring that the round hole on the right side of the vertical servo bracket aligns with the round hole of the bearing. Insert an M3x10mm screw into the bearing and tighten it.
-
-4. Insert the servo arm through the horizontal servo bracket and connect it to the gear of the vertical servo, and secure it with an M1.5x5mm self-tapping screw.
-
-.. image:: _static/assembly/7.combine.png
+.. image:: _static/assembly/7.servo.png
    :width: 800
    :align: center
+
+.. raw:: html
+
+ <div style="margin-top: 30px;"></div>
+
+.. attention::
+
+   First, flash the firmware to the main control board and connect the servo wiring harnesses to the corresponding ports on the board; proceed with the servo assembly only after confirming the reset.
+
+   When installing the vertical and horizontal servos together, maintain an angle of approximately 45° between them, as this angle yields optimal operating performance.
+
+ .. image:: _static/assembly/7.servo.png
+    :width: 800
+    :align: center
+
+  .. raw:: html
+
+    <div style="margin-top: 30px;"></div>
+
+3. Install the round metal bearing into the round hole on the right side of the horizontal servo bracket.
+
+4. Insert the gear of the vertical servo into the round hole on the left side of the horizontal servo, ensuring that the round hole on the right side of the vertical servo bracket aligns with the round hole of the bearing. Insert an M3x10mm screw into the bearing and tighten it.
+
+.. image:: _static/assembly/8.zc1.png
+   :width: 800
+   :align: center
+
+.. raw:: html
+
+   <div style="margin-top: 30px;"></div>
 
 ----
 
