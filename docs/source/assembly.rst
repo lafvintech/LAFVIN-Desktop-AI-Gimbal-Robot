@@ -377,9 +377,18 @@ STEP 10: Assemble The Acrylic Cover Plate
 **Assembly Steps:**
 
 1. Align the holes on the acrylic base with the holes on the top cover.
+
+.. image:: _static/assembly/11.com1.png
+   :width: 800
+   :align: center
+
+.. raw:: html
+
+   <div style="margin-top: 30px;"></div>
+
 2. Insert M3x10mm screws through the aligned holes and tighten them to secure the acrylic base and top cover together.
 
-.. image:: _static/assembly/10.acrylic.png
+.. image:: _static/assembly/12.com2.png
    :width: 800
    :align: center
 
