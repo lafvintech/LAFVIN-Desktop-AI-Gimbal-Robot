@@ -1,6 +1,12 @@
 Configure Xiaozhi
 ====================
 
+- This kit features the built-in "Xiaozhi AI" intelligent voice system.
+
+- To ensure smooth operation, please carefully read the configuration instructions in this section.
+
+----
+
 Register an account
 -------------------
 
@@ -203,7 +209,7 @@ Configure roles
 FAQ For Xiaozhi Configure
 -------------------------
 
-1. If the website link does not open, verify that your browser has network access and use the exact URL: `https://xiaozhi.me/`.
+1. If the website link does not open, verify that your browser has network access and use the exact URL: `XiaoZhi <https://xiaozhi.me/>`_ .
 
 .. raw:: html
 
