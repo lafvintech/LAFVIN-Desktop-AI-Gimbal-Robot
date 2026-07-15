@@ -203,15 +203,54 @@ Configure roles
 FAQ For Xiaozhi Configure
 -------------------------
 
-- If the website link does not open, verify that your browser has network access and use the exact URL: `https://xiaozhi.me/`.
-- If the registration SMS code is not received, check your phone number format, country selection, and network coverage. Try requesting the code again after a short wait.
-- If the device does not show a `Xiaozhi-xxxx` hotspot, press the **RST** button again to restart Wi-Fi configuration mode and wait for the board to finish booting.
-- If the configuration page does not redirect automatically after connecting to the hotspot, open a browser and navigate manually to `http://192.168.4.1`.
-- If your Wi-Fi network is not listed, use the manual entry option to type the SSID and password exactly, including uppercase letters and symbols.
-- If the device fails to connect to Wi-Fi, confirm the password, ensure the router supports 2.4 GHz, and avoid hidden or enterprise networks during initial setup.
-- If the 6-digit pairing code is not accepted during device binding, verify the code shown on the screen and try again after refreshing the console page.
-- If the AI assistant responds incorrectly or does not respond, re-check the role prompt and settings, then press **RST** on the main control panel to reload the configuration.
+1. If the website link does not open, verify that your browser has network access and use the exact URL: `https://xiaozhi.me/`.
 
-For any persistent issues, refer to the Xiaozhi documentation and support resources, or retry the setup steps from the beginning to confirm each stage was completed correctly.
+.. raw:: html
+
+   <div style="margin-top: 30px;"></div>
+
+2. If the registration SMS code is not received, check your phone number format, country selection, and network coverage. Try requesting the code again after a short wait.
+
+.. raw:: html
+
+   <div style="margin-top: 30px;"></div>
+
+3. If the device does not show a `Xiaozhi-xxxx` hotspot, press the **RST** button again to restart Wi-Fi configuration mode and wait for the board to finish booting.
+
+.. raw:: html
+
+   <div style="margin-top: 30px;"></div>
+
+4. If the configuration page does not redirect automatically after connecting to the hotspot, open a browser and navigate manually to **http://192.168.4.1** .
+
+.. raw:: html
+
+   <div style="margin-top: 30px;"></div>
+
+5. If your Wi-Fi network is not listed, use the manual entry option to type the SSID and password exactly, including uppercase letters and symbols.
+
+.. raw:: html
+
+   <div style="margin-top: 30px;"></div>
+
+6. If the device fails to connect to Wi-Fi, confirm the password, ensure the router supports 2.4 GHz, and avoid hidden or enterprise networks during initial setup.
+
+.. raw:: html
+
+   <div style="margin-top: 30px;"></div>
+
+7. If the 6-digit pairing code is not accepted during device binding, verify the code shown on the screen and try again after refreshing the console page.
+
+.. raw:: html
+
+   <div style="margin-top: 30px;"></div>
+
+8. If the AI assistant responds incorrectly or does not respond, re-check the role prompt and settings, then press **RST** on the main control panel to reload the configuration.
+
+.. raw:: html
+
+   <div style="margin-top: 30px;"></div>
+
+- For any persistent issues, refer to the Xiaozhi documentation and support resources, or retry the setup steps from the beginning to confirm each stage was completed correctly.
 
 ----

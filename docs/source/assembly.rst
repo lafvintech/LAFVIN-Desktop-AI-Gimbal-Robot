@@ -448,24 +448,56 @@ Calibration must be completed prior to permanent installation; the specific step
 FAQ For Assembly 
 ----------------
 
-This section summarizes common problems that may occur during assembly and installation, and provides corresponding solutions.
+- This section summarizes common problems that may occur during assembly and installation, and provides corresponding solutions.
 
-- **Power Supply/Battery:** Problem: Device cannot power on. Solution: Check battery polarity and charge; ensure 18650 batteries are correctly inserted; try using fully charged batteries.
+1. **Power Supply/Battery:** Problem: Device cannot power on. Solution: Check battery polarity and charge; ensure 18650 batteries are correctly inserted; try using fully charged batteries.
 
-- **Servo Direction or Jamming:** Problem: Servo movement is incorrect or jammed. Solution: Confirm the servo direction and installation orientation described in the steps; perform a servo reset after firmware update; ensure there are no mechanical obstructions on the servo arm and linkage.
+.. raw:: html
 
-- **Servo Unreset/Unresponsive:** Problem: Servo does not respond after power-on. Solution: Ensure the main control board firmware has been updated (see the "Update Procedure" section); check signal cable connections; check if the power supply provides sufficient current to the servo.
+   <div style="margin-top: 30px;"></div>
 
-- **Screen Not Displaying/Gibberish:** Problem: Screen is blank or displays garbled characters. Solution: Check the orientation and wiring of the display connector; confirm the display type and driver in the firmware configuration; check for loose pins and re-plug the connector.
+2. **Servo Direction or Jamming:** Problem: Servo movement is incorrect or jammed. Solution: Confirm the servo direction and installation orientation described in the steps; perform a servo reset after firmware update; ensure there are no mechanical obstructions on the servo arm and linkage.
 
-- **Gesture Module Malfunction:** Problem: Gesture input is not recognized. Solution: Check the wiring and pin orientation of the XH2.54 connector; ensure the power and signal connections of the gesture module are correct.
+.. raw:: html
 
-- **Loose or Missing Hardware:** Problem: Some components are loose or missing. Solution: Review the parts list and steps in this chapter; tighten screws to the recommended torque and use washers in designated locations.
+   <div style="margin-top: 30px;"></div>
 
-- **Servo Jitter or Noise:** Problem: Servo motor vibration or abnormal operation. Solution: Provide a stable and sufficient power supply; add a decoupling capacitor near the power input; ensure the controller and servo motor share a common ground; test each servo motor individually to troubleshoot the faulty unit.
+3. **Servo Unreset/Unresponsive:** Problem: Servo does not respond after power-on. Solution: Ensure the main control board firmware has been updated (see the "Update Procedure" section); check signal cable connections; check if the power supply provides sufficient current to the servo.
 
-- **Wiring and Connector Issues:** Problem: Unstable connections or abnormal behavior. Solution: Check connectors for bent pins, re-plug all cables and secure the wiring harness with cable ties; replace damaged connectors or cables.
+.. raw:: html
 
-If the problem persists after trying the above methods, please collect the following information and contact technical support: a clear photo of the assembly, a short video demonstrating the problem, console logs or flash output, and the firmware version installed.
+   <div style="margin-top: 30px;"></div>
+
+4. **Screen Not Displaying/Gibberish:** Problem: Screen is blank or displays garbled characters. Solution: Check the orientation and wiring of the display connector; confirm the display type and driver in the firmware configuration; check for loose pins and re-plug the connector.
+
+.. raw:: html
+
+   <div style="margin-top: 30px;"></div>
+
+5. **Gesture Module Malfunction:** Problem: Gesture input is not recognized. Solution: Check the wiring and pin orientation of the XH2.54 connector; ensure the power and signal connections of the gesture module are correct.
+
+.. raw:: html
+
+   <div style="margin-top: 30px;"></div>
+
+6. **Loose or Missing Hardware:** Problem: Some components are loose or missing. Solution: Review the parts list and steps in this chapter; tighten screws to the recommended torque and use washers in designated locations.
+
+.. raw:: html
+
+   <div style="margin-top: 30px;"></div>
+
+7. **Servo Jitter or Noise:** Problem: Servo motor vibration or abnormal operation. Solution: Provide a stable and sufficient power supply; add a decoupling capacitor near the power input; ensure the controller and servo motor share a common ground; test each servo motor individually to troubleshoot the faulty unit.
+
+.. raw:: html
+
+   <div style="margin-top: 30px;"></div>
+
+8. **Wiring and Connector Issues:** Problem: Unstable connections or abnormal behavior. Solution: Check connectors for bent pins, re-plug all cables and secure the wiring harness with cable ties; replace damaged connectors or cables.
+
+.. raw:: html
+
+   <div style="margin-top: 30px;"></div>
+
+- If the problem persists after trying the above methods, please collect the following information and contact technical support: a clear photo of the assembly, a short video demonstrating the problem, console logs or flash output, and the firmware version installed.
 
 ----
