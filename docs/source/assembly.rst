@@ -431,6 +431,16 @@ Click here to view the user guide. After ensuring that it is working properly, u
 Servo Calibration Tutorial
 ---------------------------
 
+Calibration must be completed prior to permanent installation; the specific steps are as follows:
+
+**Flashing and Connection:** Flash the firmware to the main control board and connect the servo wiring harness to the corresponding ports on the board.
+
+**Power-on Reset:** Insert an 18650 battery and turn on the main control board; the servos will automatically perform a reset action.
+
+**Disconnect Wiring:** Once the reset is complete, disconnect the servo wiring harness.
+
+**Permanent Installation:** Secure the servos in place according to the positions and angles shown in the diagram below. It is recommended to maintain an angle of approximately 45° between the vertical and horizontal servos for optimal performance.
+
 
 FAQ For Assembly 
 ----------------
