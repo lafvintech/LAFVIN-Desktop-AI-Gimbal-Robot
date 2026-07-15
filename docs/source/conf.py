@@ -1,5 +1,5 @@
 # -- Project information -----------------------------------------------------
-project = 'ESP32 Ultimate Starter Kit'
+project = 'LAFVIN Desktop AI Gimbal Robot'
 copyright = '2026, Lafvin'
 author = 'Lafvin'
 
