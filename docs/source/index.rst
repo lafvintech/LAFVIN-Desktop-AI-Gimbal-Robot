@@ -8,7 +8,7 @@ LAFVIN Desktop AI Gimbal Robot
    Introduction
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Preparation Before Use
 
    FlashingProgram
