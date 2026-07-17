@@ -433,12 +433,13 @@ Step 11: Wiring
 
    <div style="margin-top: 30px;"></div>
 
+.. attention::
 
-- The XH2.54-4Pin connector on the main control board features a reverse-polarity protection design. 
+ - The XH2.54-4Pin connector on the main control board features a reverse-polarity protection design. 
 
-- The plug can only be inserted in the correct orientation, making it impossible to plug in the wrong way.
+ - The plug can only be inserted in the correct orientation, making it impossible to plug in the wrong way.
 
-- So there is no need to worry about incorrect insertion.
+ - So there is no need to worry about incorrect insertion.
 
 3. One end of the connection module features a pin header design; to avoid incorrect insertion, please plug it in according to the position shown in the diagram.
 
