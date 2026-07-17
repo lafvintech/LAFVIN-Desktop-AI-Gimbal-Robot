@@ -410,9 +410,6 @@ Step 11: Wiring
 **Assembly Steps:**
 
 1. MG90S Servo Pin Definitions:
-- Brown: Ground (GND)
-- Red: Power (VCC)
-- Orange: Signal
 
 .. image:: _static/assembly/14.servo.png
    :width: 500
@@ -421,7 +418,6 @@ Step 11: Wiring
 .. raw:: html
 
    <div style="margin-top: 30px;"></div>
-
 
 2. Connect the XH2.54 4PIN cable to the corresponding interfaces on the main control board of the gesture recognition module and the screen module respectively, and ensure that the connection is secure.
 
