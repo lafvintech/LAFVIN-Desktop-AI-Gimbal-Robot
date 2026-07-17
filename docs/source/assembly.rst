@@ -402,6 +402,9 @@ Step 11: Wiring
 
 **Required components:**
 
+- Gesture recognition module
+- 0.96-inch screen
+- MG90S servo
 - XH2.54 4PIN connector cable (2 PCS)
 
 **Assembly Steps:**
