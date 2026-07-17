@@ -408,7 +408,7 @@ Step 11: Wiring
 
 1. Connect the XH2.54 4PIN cable to the corresponding interfaces on the main control board of the gesture recognition module and the screen module respectively, and ensure that the connection is secure.
 
-.. image:: _static/assembly/11.wiring.png
+.. image:: _static/assembly/13.wiring.png
    :width: 800
    :align: center
 
