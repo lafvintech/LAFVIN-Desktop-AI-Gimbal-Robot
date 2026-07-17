@@ -409,10 +409,10 @@ Step 11: Wiring
 
 **Assembly Steps:**
 
-1. MG90S Servo Pin Definitions 
- - Brown: Ground (GND)
- - Red: Power (VCC)
- - Orange: Signal
+1. MG90S Servo Pin Definitions:
+- Brown: Ground (GND)
+- Red: Power (VCC)
+- Orange: Signal
 
 .. image:: _static/assembly/14.servo.png
    :width: 500
