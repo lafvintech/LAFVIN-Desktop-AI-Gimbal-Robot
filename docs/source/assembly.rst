@@ -406,11 +406,46 @@ Step 11: Wiring
 
 **Assembly Steps:**
 
-1. Connect the XH2.54 4PIN cable to the corresponding interfaces on the main control board of the gesture recognition module and the screen module respectively, and ensure that the connection is secure.
+1. MG90S Servo Pin Definitions 
+ - Brown: Ground (GND)
+ - Red: Power (VCC)
+ - Orange: Signal
+
+.. image:: _static/assembly/14.servo.png
+   :width: 500
+   :align: center
+
+.. raw:: html
+
+   <div style="margin-top: 30px;"></div>
+
+
+2. Connect the XH2.54 4PIN cable to the corresponding interfaces on the main control board of the gesture recognition module and the screen module respectively, and ensure that the connection is secure.
 
 .. image:: _static/assembly/13.wiring.png
    :width: 800
    :align: center
+
+.. raw:: html
+
+   <div style="margin-top: 30px;"></div>
+
+
+- The XH2.54-4Pin connector on the main control board features a reverse-polarity protection design. 
+
+- The plug can only be inserted in the correct orientation, making it impossible to plug in the wrong way.
+
+- So there is no need to worry about incorrect insertion.
+
+3. One end of the connection module features a pin header design; to avoid incorrect insertion, please plug it in according to the position shown in the diagram.
+
+.. image:: _static/assembly/13.wiring2.png
+   :width: 800
+   :align: center
+
+.. raw:: html
+
+   <div style="margin-top: 30px;"></div>
 
 ----
 
