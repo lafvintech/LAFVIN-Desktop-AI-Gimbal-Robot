@@ -46,17 +46,17 @@ After the robot is powered on, it defaults to conversation mode. You can enter e
  - "Play Face ID animation"
 …
 
-- The following are 41 graphic expressions built into the system. You can directly say
+- The following are 41 graphic expressions built into the system. You can directly say:
 
 .. image:: _static/function/1.biaoqinji.png
-   :width: 500
+   :width: 400
    :align: center
 
 .. raw:: html
 
    <div style="margin-top: 30px;"></div>
 
-- For example: **Play basketball animation **, and the system can play the corresponding graphic expressions.
+- For example: **Play basketball animation**, and the system can play the corresponding graphic expressions.
 
 ----
 
