@@ -66,7 +66,7 @@ Bill of Materials
      - x5  
    * - 11
      - Cable ties
-     - x3 
+     - x4 
 
 ----
 

@@ -6,7 +6,7 @@ Function Usage Guide
 Intelligent AI voice dialogue
 -----------------------------
 
-**This project is perfectly compatible with Xiaozhi AI and supports multiple languages. You can converse with the robot via voice. The robot will process your voice input and respond accordingly based on your configured settings.**
+This project is perfectly compatible with Xiaozhi AI and supports multiple languages. You can converse with the robot via voice. The robot will process your voice input and respond accordingly based on your configured settings.
 
 - You can ask it any questions:
 
@@ -34,9 +34,9 @@ Intelligent AI voice dialogue
 ----
 
 Emoticon Mode
-----------------
+-------------
 
-**After the robot is powered on, it defaults to conversation mode. You can enter expression mode by long-pressing the "BOOT" button. In this mode, the robot will respond to your voice commands by displaying corresponding emoticons on its OLED screen. This allows for a fun and interactive way to express emotions through the robot. You can switch back to conversation mode by long-pressing the "BOOT" button again.**
+After the robot is powered on, it defaults to conversation mode. You can enter expression mode by long-pressing the "BOOT" button. In this mode, the robot will respond to your voice commands by displaying corresponding emoticons on its OLED screen. This allows for a fun and interactive way to express emotions through the robot. You can switch back to conversation mode by long-pressing the "BOOT" button again.
 
 - In Emoticon Mode,you can say:
 
@@ -45,6 +45,18 @@ Emoticon Mode
  - "Play badminton animation"
  - "Play Face ID animation"
 …
+
+- The following are 41 graphic expressions built into the system. You can directly say
+
+.. image:: _static/function/1.biaoqinji.png
+   :width: 500
+   :align: center
+
+.. raw:: html
+
+   <div style="margin-top: 30px;"></div>
+
+- For example: **Play basketball animation **, and the system can play the corresponding graphic expressions.
 
 ----
 
