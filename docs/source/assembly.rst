@@ -460,7 +460,7 @@ Step 12: Organize The Wire Harness
 
 Click here to view the user guide. After ensuring that it is working properly, use cable ties to organize the wire harness.
 
-.. image:: _static/assembly/12.wiring.png
+.. image:: _static/assembly/15.zhadai.png
    :width: 800
    :align: center
 

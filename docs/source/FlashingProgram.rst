@@ -100,7 +100,11 @@ Click the "Flash" button to start the flashing process. The progress will be dis
 .. image:: _static/flash/8.烧录.png
    :width: 800
    :align: center   
-   
+
+.. attention::
+
+   The flashing process is only considered complete once the message **Flashing complete! Restoring serial connection. Device ready** appears.
+
 ----
 
 FAQ For Flashing Program
