@@ -60,6 +60,10 @@ STEP 1: Assemble the Base
 
 4. Install a fully charged 18650 battery into the battery compartment on the main control board, paying attention to the positive and negative terminals. Batteries are not included in the package; please provide your own.
 
+.. attention::
+
+   The brown paper on the acrylic surface is a protective film; please peel it off before installation.
+
 ----
 
 STEP 2: Assemble The Gimbal Base
