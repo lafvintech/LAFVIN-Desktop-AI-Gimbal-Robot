@@ -24,11 +24,11 @@ This project is perfectly compatible with Xiaozhi AI and supports multiple langu
 
 - With the servo gimbal, you can also say: 
 
- - Shake your head left/right
- - Scan left, right, and up.
- - Shaking head left and right
- - Look up
- - Nod
+ - "Shake your head left/right"
+ - "Scan left, right, and up."
+ - "Shaking head left and right"
+ - "Look up"
+ - "Nod"
 …
 
 .. attention::
