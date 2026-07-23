@@ -62,7 +62,7 @@ After the robot is powered on, it defaults to conversation mode. You can enter e
 
    <div style="margin-top: 30px;"></div>
 
-- For example: **Play basketball animation**, and the system can play the corresponding graphic expressions.
+- For example: **Play Rainy animation**, and the system can play the corresponding graphic expressions.
 
 ----
 
