@@ -87,6 +87,7 @@ Select the corresponding firmware as shown in the images below.
 
 Step 5: Start Flashing
 ~~~~~~~~~~~~~~~~~~~~~~
+
 Click the "Flash" button to start the flashing process. The progress will be displayed on the screen, and once completed, you can disconnect the device and start using it.
 
 .. image:: _static/flash/7.烧录.png
