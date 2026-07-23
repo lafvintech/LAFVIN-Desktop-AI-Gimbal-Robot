@@ -61,7 +61,7 @@ STEP 1: Assemble the Base
 
 .. attention::
 
-   The brown paper on the acrylic surface is a protective film; please peel it off before installation..
+   The brown paper on the acrylic surface is a protective film; please peel it off before installation.
 
 ----
 
