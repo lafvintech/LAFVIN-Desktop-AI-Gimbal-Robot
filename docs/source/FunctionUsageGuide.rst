@@ -177,6 +177,3 @@ FAQ For Function Usage Guide
 - Do not apply additional loads to the servo motor or force it to move beyond its mechanical limits.
 
 ----
-
-
-
