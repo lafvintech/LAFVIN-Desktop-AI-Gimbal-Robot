@@ -31,12 +31,18 @@ This project is perfectly compatible with Xiaozhi AI and supports multiple langu
  - Nod
 …
 
+.. attention::
+
+ - The factory default wake-up phrase is **Hi，ESP!** .
+
+ - Alternatively, you can start a conversation by briefly pressing the **BOOT** button.
+
 ----
 
 Emoticon Mode
 -------------
 
-After the robot is powered on, it defaults to conversation mode. You can enter expression mode by long-pressing the "BOOT" button. In this mode, the robot will respond to your voice commands by displaying corresponding emoticons on its OLED screen. This allows for a fun and interactive way to express emotions through the robot. You can switch back to conversation mode by long-pressing the "BOOT" button again.
+After the robot is powered on, it defaults to conversation mode. You can enter expression mode by long-pressing the **BOOT** button. In this mode, the robot will respond to your voice commands by displaying corresponding emoticons on its OLED screen. This allows for a fun and interactive way to express emotions through the robot. You can switch back to conversation mode by long-pressing the **BOOT** button again.
 
 - In Emoticon Mode,you can say:
 
@@ -108,7 +114,7 @@ FAQ For Function Usage Guide
 
 **​How ​​to switch operating modes after powering on?**
 
-- Press and hold the `BOOT` button to switch between Conversation mode and Emoticon mode. Powering on defaults to Conversation mode.
+- Press and hold the **BOOT** button to switch between Conversation mode and Emoticon mode. Powering on defaults to Conversation mode.
 
 ----
 
