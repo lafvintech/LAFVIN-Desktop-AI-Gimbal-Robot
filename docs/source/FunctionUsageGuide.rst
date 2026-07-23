@@ -3,7 +3,7 @@ Function Usage Guide
 
 **This section explains how to use the LAFVIN Desktop AI Gimbal Robot through its main functions and real operating workflows. It covers gesture recognition, OLED display interaction, servo control, Follow this guide when configuring the system, running demos, and troubleshooting common issues to make the most of your robot.**
 
-Intelligent AI voice dialogue
+Intelligent AI Voice Dialogue
 -----------------------------
 
 This project is perfectly compatible with Xiaozhi AI and supports multiple languages. You can converse with the robot via voice. The robot will process your voice input and respond accordingly based on your configured settings.

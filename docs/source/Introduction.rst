@@ -81,6 +81,16 @@ Bill of Materials
 Technical Parameters
 --------------------
 
+- The figure below shows the component definitions:
+
+.. image:: _static/Introduction/1.component.png
+   :width: 600
+   :align: center
+
+.. raw:: html
+
+   <div style="margin-top: 30px;"></div>
+
 .. list-table:: 
    :header-rows: 1
    :widths: 20 30
