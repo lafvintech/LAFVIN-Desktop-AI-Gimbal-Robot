@@ -81,7 +81,7 @@ Bill of Materials
 Technical Parameters
 --------------------
 
-- The figure below shows the component definitions:
+- **The figure below shows the component definitions for the main control board:**
 
 .. image:: _static/Introduction/1.component.png
    :width: 600
