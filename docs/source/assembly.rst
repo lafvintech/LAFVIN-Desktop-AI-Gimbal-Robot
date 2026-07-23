@@ -246,7 +246,7 @@ STEP 7: Combine The Two Servos
 
   Before proceeding with this step, a servo reset must be performed to ensure the servos are in their initial mechanical zero position.
 
-  Confirm Firmware Status: The servo reset function relies on the program control on the main control board. Please confirm that the main control board has been firmware flashed; if not, please refer to and complete the steps in the **[Firmware Flashing Tutorial]** beforehand. 
+  Confirm Firmware Status: The servo reset function relies on the program control on the main control board. Please confirm that the main control board has been firmware flashed; if not, please refer to and complete the steps in the **[ Flash The Firmware]** beforehand. 
 
   Connect Servo Signal Cables: Connect the signal cables of the vertical and horizontal servos to the corresponding interfaces marked on the main control board.
 
