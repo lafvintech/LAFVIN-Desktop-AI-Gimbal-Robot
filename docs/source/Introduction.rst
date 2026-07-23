@@ -76,6 +76,16 @@ Bill of Materials
 
    The package does **not include an 18650 battery**. The Type-C data cable is only for flashing firmware and charging. Please note that powering the entire system solely through the Type-C data cable is insufficient and may cause the robot to crash or restart.
 
+- **18650 batteries come in flat-top and button-top varieties,please purchase the flat-top version.**
+
+.. image:: _static/Introduction/2.18650.png
+   :width: 600
+   :align: center
+
+.. raw:: html
+
+   <div style="margin-top: 30px;"></div>
+
 ----
 
 Technical Parameters
