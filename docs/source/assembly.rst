@@ -61,7 +61,7 @@ STEP 1: Assemble the Base
 
 .. attention::
 
-   The brown paper on the acrylic surface is a protective film; please peel it off before installation.
+   The brown paper on the acrylic surface is a protective film; please peel it off before installation..
 
 ----
 
@@ -328,7 +328,7 @@ STEP 8: Assemble Screen
 
    <div style="margin-top: 30px;"></div>
 
-2. Pass an M2 x 12mm screw through the holes and install an M2 washer and M2 nut on the screw, then tighten it to secure the 0.96-inch screen to the metal screen bracket.
+2. Pass an M2 x 12mm screw through the holes and install an M2.5x4mm washer and M2 nut on the screw, then tighten it to secure the 0.96-inch screen to the metal screen bracket.
 
 .. image:: _static/assembly/9.display2.png
    :width: 800
@@ -377,7 +377,7 @@ STEP 10: Assemble The Acrylic Cover Plate
 
 - Acrylic base
 - Acrylic Top cover
-- M3x10mm screws (4 PCS)
+- M3x12mm screws (4 PCS)
 
 
 **Assembly Steps:**
@@ -392,7 +392,7 @@ STEP 10: Assemble The Acrylic Cover Plate
 
    <div style="margin-top: 30px;"></div>
 
-2. Insert M3x10mm screws through the aligned holes and tighten them to secure the acrylic base and top cover together.
+2. Insert M3x12mm screws through the aligned holes and tighten them to secure the acrylic base and top cover together.
 
 .. image:: _static/assembly/12.com2.png
    :width: 800
