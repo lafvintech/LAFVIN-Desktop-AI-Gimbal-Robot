@@ -57,7 +57,6 @@ STEP 1: Assemble the Base
 
    <div style="margin-top: 30px;"></div>
 
-
 4. Install a fully charged 18650 battery into the battery compartment on the main control board, paying attention to the positive and negative terminals. Batteries are not included in the package; please provide your own.
 
 .. attention::
