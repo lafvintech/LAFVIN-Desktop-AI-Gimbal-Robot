@@ -11,7 +11,7 @@
 
 **Video Tutorial**
 
-.. video:: _static/assembly/desktop_robot.mp4
+.. video:: _static/assembly/LA076_ROBOT_V2.mp4
     :width: 100%
 
 - The video tutorial is available on our official YouTube channel. You can watch the assembly process step by step and follow along with the instructions.
