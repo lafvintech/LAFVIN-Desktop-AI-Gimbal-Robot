@@ -7,7 +7,7 @@ Intelligent AI Voice Dialogue
 -----------------------------
 
 .. image:: _static/function/3.xiaozhi.png
-   :width: 500
+   :width: 600
    :align: center
 
 .. raw:: html
@@ -53,7 +53,7 @@ Emoticon Mode
 After the robot is powered on, it defaults to conversation mode. You can enter expression mode by long-pressing the **BOOT** button. In this mode, the robot will respond to your voice commands by displaying corresponding emoticons on its OLED screen. This allows for a fun and interactive way to express emotions through the robot. You can switch back to conversation mode by long-pressing the **BOOT** button again.
 
 .. image:: _static/function/4.display.png
-   :width: 400
+   :width: 600
    :align: center
 
 .. raw:: html
@@ -86,7 +86,7 @@ Gesture Recognition
 -------------------
 
 .. image:: _static/function/2.gesture.png
-   :width: 500
+   :width: 600
    :align: center
 
 .. raw:: html
