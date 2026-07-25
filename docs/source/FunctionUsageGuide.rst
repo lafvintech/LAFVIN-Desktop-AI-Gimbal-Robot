@@ -69,6 +69,14 @@ After the robot is powered on, it defaults to conversation mode. You can enter e
 Gesture Recognition
 -------------------
 
+.. image:: _static/function/2.gesture.png
+   :width: 500
+   :align: center
+
+.. raw:: html
+
+   <div style="margin-top: 30px;"></div>
+
 This robot is equipped with a gesture recognition system that understands and responds to specific gestures. With this feature, you can control the gimbal's direction without using voice commands. You can make various gestures in front of the gesture recognition module, and it will recognize and execute the corresponding functions.
 
 - Supported gestures include:
