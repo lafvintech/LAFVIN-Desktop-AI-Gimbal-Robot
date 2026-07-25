@@ -29,9 +29,8 @@ STEP 1: Assemble the Base
 - Acrylic base plate
 - M3x10mm screws (4 PCS)
 - M3x23mm brass pillars (4 PCS)
-- M3 washers (4 PCS)
+- M3 Shim (4 PCS)
 - 18650 battery (not included)
-
 
 **Assembly Steps:**
 
@@ -306,7 +305,7 @@ STEP 7: Combine The Two Servos
 
 ----
 
-STEP 8: Assemble Screen
+STEP 8: Assemble Display
 -----------------------
 
 **Required components:**
