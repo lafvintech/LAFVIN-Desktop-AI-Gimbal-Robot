@@ -6,6 +6,14 @@ Function Usage Guide
 Intelligent AI Voice Dialogue
 -----------------------------
 
+.. image:: _static/function/3.xiaozhi.png
+   :width: 500
+   :align: center
+
+.. raw:: html
+
+   <div style="margin-top: 30px;"></div>
+
 This project is perfectly compatible with Xiaozhi AI and supports multiple languages. You can converse with the robot via voice. The robot will process your voice input and respond accordingly based on your configured settings.
 
 - You can ask it any questions:
