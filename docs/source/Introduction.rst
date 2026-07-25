@@ -9,17 +9,21 @@ Introduction
 
 **LAFVIN Desktop AI Gimbal Robot**
 
-.. image:: _static/2.gimbal.png
-   :width: 800
+.. image:: _static/Introduction/3.robot.png
+   :width: 600
    :align: center
+
+.. raw:: html
+
+   <div style="margin-top: 30px;"></div>
 
 ----
 
 Bill of Materials
 -----------------
 
-.. image:: _static/3.bom11.png
-   :width: 800
+.. image:: _static/Introduction/4.bom.png
+   :width: 600
    :align: center
 
 .. raw:: html

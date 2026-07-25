@@ -52,6 +52,14 @@ Emoticon Mode
 
 After the robot is powered on, it defaults to conversation mode. You can enter expression mode by long-pressing the **BOOT** button. In this mode, the robot will respond to your voice commands by displaying corresponding emoticons on its OLED screen. This allows for a fun and interactive way to express emotions through the robot. You can switch back to conversation mode by long-pressing the **BOOT** button again.
 
+.. image:: _static/function/4.display.png
+   :width: 400
+   :align: center
+
+.. raw:: html
+
+   <div style="margin-top: 30px;"></div>
+
 - In Emoticon Mode,you can say:
 
  - "Show me a happy face"
