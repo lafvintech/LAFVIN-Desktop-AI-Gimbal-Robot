@@ -27,7 +27,7 @@ STEP 1: Assemble the Base
 
 - Main control board
 - Acrylic base plate
-- M3x12mm screws (4 PCS)
+- M3x10mm screws (4 PCS)
 - M3x23mm brass pillars (4 PCS)
 - M3 washers (4 PCS)
 - 18650 battery (not included)
@@ -37,7 +37,7 @@ STEP 1: Assemble the Base
 
 1. Place the main control board on the acrylic base plate, aligning it with the holes.
 
-2. Pass the M3x12mm screws through the holes in the acrylic base plate and place the M3 washers in the screws.
+2. Pass the M3x10mm screws through the holes in the acrylic base plate and place the M3 washers in the screws.
 
 .. image:: _static/assembly/1.base.png
    :width: 800
