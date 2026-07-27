@@ -414,7 +414,7 @@ Step 11: Wiring
 1. MG90S Servo Pin Definitions:
 
 .. image:: _static/assembly/14.servo.png
-   :width: 500
+   :width: 600
    :align: center
 
 .. raw:: html
@@ -425,6 +425,14 @@ Step 11: Wiring
 
 .. image:: _static/assembly/13.wiring.png
    :width: 800
+   :align: center
+
+.. raw:: html
+
+   <div style="margin-top: 30px;"></div>
+
+.. image:: _static/assembly/18.SERVO.png
+   :width: 600
    :align: center
 
 .. raw:: html
