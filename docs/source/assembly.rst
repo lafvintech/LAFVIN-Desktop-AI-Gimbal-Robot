@@ -441,7 +441,15 @@ Step 11: Wiring
 
 3. One end of the connection module features a pin header design; to avoid incorrect insertion, please plug it in according to the position shown in the diagram.
 
-.. image:: _static/assembly/13.wiring2.png
+.. image:: _static/assembly/16.display.png
+   :width: 800
+   :align: center
+
+.. raw:: html
+
+   <div style="margin-top: 30px;"></div>
+
+.. image:: _static/assembly/17.gesture.png
    :width: 800
    :align: center
 
