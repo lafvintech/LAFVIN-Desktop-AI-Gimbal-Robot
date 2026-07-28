@@ -25,8 +25,12 @@ Step 1: Connect the Device
 Use the provided Type-C data cable to connect the **Desktop AI Gimbal Robot Main Control Board** to your computer.
 
 .. image:: _static/flash/9.type-c.png
-   :width: 600
+   :width: 400
    :align: center
+
+.. raw:: html
+
+   <div style="margin-top: 30px;"></div>
 
 .. attention::
 
