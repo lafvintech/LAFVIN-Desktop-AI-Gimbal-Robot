@@ -28,6 +28,7 @@ Register an account
 
   - Enter the graphic verification code
 
+.. image:: _static/xiaozhi/2.xiaozhi2.png
    :width: 800
    :align: center
 
@@ -183,7 +184,7 @@ Add device
 
 ----
 
-Configure roles
+Configure Roles
 ---------------
 
 **To make it more fun, you can configure your unique character as follows:**
