@@ -23,7 +23,7 @@ Bill of Materials
 -----------------
 
 .. image:: _static/Introduction/4.bom.png
-   :width: 600
+   :width: 800
    :align: center
 
 .. raw:: html
