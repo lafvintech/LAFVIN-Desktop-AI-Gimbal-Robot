@@ -28,7 +28,6 @@ Register an account
 
   - Enter the graphic verification code
 
-.. image:: _static/xiaozhi/2.xiaozhi.png
    :width: 800
    :align: center
 
@@ -38,7 +37,7 @@ Register an account
 
 4. Then click “Send Code”. The system will send a verification code to your phone. enter the verification code to complete registration
 
-.. image:: _static/xiaozhi/3.xiaozhi.png
+.. image:: _static/xiaozhi/3.xiaozhi2.png
    :width: 800
    :align: center
 
@@ -46,7 +45,9 @@ Register an account
 
    <div style="margin-top: 30px;"></div>
 
-.. image:: _static/xiaozhi/4.xiaozhi.png
+5. Complete your profile，For account security, complete the information below to continue.After filling in, you can jump to the device management page.
+
+.. image:: _static/xiaozhi/4.xiaozhi3.png
    :width: 800
    :align: center
 
@@ -54,12 +55,40 @@ Register an account
 
    <div style="margin-top: 30px;"></div>
 
-5. After registration, you can add a password in the account management in the upper right corner
-
-.. image:: _static/xiaozhi/5.xiaozhi.png
+.. image:: _static/xiaozhi/4.xiaozhi2.png
    :width: 800
    :align: center
 
+.. raw:: html
+
+   <div style="margin-top: 30px;"></div>
+
+6. After registration, you can add a password in the account management in the upper right corner.
+
+.. image:: _static/xiaozhi/5.xiaozhi2.png
+   :width: 800
+   :align: center
+
+.. raw:: html
+
+   <div style="margin-top: 30px;"></div>
+
+.. image:: _static/xiaozhi/6.xiaozhi2.png
+   :width: 800
+   :align: center
+
+.. raw:: html
+
+   <div style="margin-top: 30px;"></div>
+
+.. image:: _static/xiaozhi/6.xiaozhi3.png
+   :width: 800
+   :align: center
+
+.. raw:: html
+
+   <div style="margin-top: 30px;"></div>
+   
 ----
 
 Configure network for device
@@ -114,7 +143,7 @@ Add device
 
 1. After logging in Xiaozhi, click the “Add Device” button on the console page.
 
-.. image:: _static/xiaozhi/6.xiaozhi1.png
+.. image:: _static/xiaozhi/6.xiaozhi.png
    :width: 800
    :align: center
 
@@ -123,6 +152,14 @@ Add device
    <div style="margin-top: 30px;"></div>
 
 2. Enter the 6-digit pairing code displayed on the screen.
+
+.. image:: _static/xiaozhi/6.xiaozhi4.png
+   :width: 800
+   :align: center
+
+.. raw:: html
+
+   <div style="margin-top: 30px;"></div>
 
 .. image:: _static/xiaozhi/10.xiaozhi.gif
    :width: 800
@@ -134,7 +171,7 @@ Add device
 
 3. Select the "Open Source" version to get started.
 
-.. image:: _static/xiaozhi/11.xiaozhi.png
+.. image:: _static/xiaozhi/11.xiaozhi2.png
    :width: 800
    :align: center
 
