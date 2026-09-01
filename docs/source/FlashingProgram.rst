@@ -3,8 +3,6 @@
 
 **This product was not pre-programmed at the time of shipment. To use it, you will need to flash the program yourself. Please follow the instructions below to complete the flashing process.**
 
-**This chapter aims to introduce the firmware flashing process. To enable you to quickly experience the product's features, two flashing methods are provided; please select the option that best suits your needs.**
-
 Online Flashing
 ----------------
 
@@ -66,8 +64,8 @@ Click "Connect," and in the pop-up serial port selection window, select the appr
 
     If you are unsure which serial port to select, you can disconnect the device and check which port disappears from the list, then reconnect it and select that port.
 
-    If no new serial port is detected, it indicates that the main control board has not entered download mode. Please proceed as follows: press and hold the **BOOT button**, then connect the data cable to the main control board.
-
+    If a new serial port is not detected, it indicates that the main control board has not entered download mode. Please follow these steps: press and hold the **BOOT button**, connect the data cable to the main control board, and then release the **BOOT button**; the corresponding port should then be recognized.
+    
 ----
 
 Step 4: Select the Firmware
