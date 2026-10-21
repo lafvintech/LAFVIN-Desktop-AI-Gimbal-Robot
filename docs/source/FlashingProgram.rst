@@ -66,6 +66,8 @@ Click "Connect," and in the pop-up serial port selection window, select the appr
 
     If a new serial port is not detected, it indicates that the main control board has not entered download mode. Please follow these steps: press and hold the **BOOT button**, connect the data cable to the main control board, and then release the **BOOT button**; the corresponding port should then be recognized.
     
+    Click here to view the specific operating instructions: :ref:`Unable To Identify Port <unable-to-identify-port>`.
+   
 ----
 
 Step 4: Select the Firmware
@@ -107,6 +109,67 @@ Click the "Flash" button to start the flashing process. The progress will be dis
 .. attention::
 
    The flashing process is only considered complete once the message **Flashing complete! Restoring serial connection. Device ready** appears.
+
+----
+
+.. _unable-to-identify-port:
+
+Unable To Identify Port
+-----------------------
+
+- After connecting the desktop robot control board to your computer, press the "Win + X" keyboard shortcut in Windows and select "Device Manager."
+
+- Expand the "Ports (COM & LPT)" section and check for the appearance of a new serial device. A "USB Serial Device (COMx)" or a similar entry indicates the serial port corresponding to your desktop robot control board.
+
+.. image:: _static/flash/9.设备管理器.png
+   :width: 800
+   :align: center   
+
+.. raw:: html
+
+   <div style="margin-top: 30px;"></div>
+
+- If no new serial port appears, or if the Device Manager window keeps refreshing or flickering, please follow the instructions for the appropriate "download mode" (based on whether or not a battery is installed) to reconnect the development board. Once done, check the Device Manager again to see if the serial port has appeared.
+
+----
+
+**Please follow the instructions below according to the battery configuration:**
+
+.. image:: _static/flash/10.操作.png
+   :width: 800
+   :align: center   
+
+.. raw:: html
+
+   <div style="margin-top: 30px;"></div>
+
+A. No Battery Installed
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+If no battery is installed, or the battery has been removed:
+
+1. Turn on the power switch.
+2. Press and hold the **BOOT** button.
+3. Connect the Type-C data cable.
+4. Release the **BOOT** button.
+
+
+B. Battery Installed
+~~~~~~~~~~~~~~~~~~~~~
+
+If the battery is installed:
+
+1. Turn off the power switch.
+2. Connect the Type-C data cable.
+3. Press and hold the **BOOT** button.
+4. Turn on the power switch.
+5. Release the **BOOT** button.
+
+Expected Result
+~~~~~~~~~~~~~~~~
+
+After completing the steps above, the computer should recognize the
+corresponding serial port of the device.
 
 ----
 
