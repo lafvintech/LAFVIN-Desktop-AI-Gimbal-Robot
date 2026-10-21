@@ -153,6 +153,10 @@ If no battery is installed, or the battery has been removed:
 3. Connect the Type-C data cable.
 4. Release the **BOOT** button.
 
+- The following video demonstrates the procedure when no battery is installed.
+
+.. video:: _static/flash/11.PORT.mp4
+    :width: 100%
 
 B. Battery Installed
 ~~~~~~~~~~~~~~~~~~~~~
