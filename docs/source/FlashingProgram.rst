@@ -121,7 +121,7 @@ Unable To Identify Port
 
 - Expand the "Ports (COM & LPT)" section and check for the appearance of a new serial device. A "USB Serial Device (COMx)" or a similar entry indicates the serial port corresponding to your desktop robot control board.
 
-.. image:: _static/flash/9.设备管理器.png
+.. image:: _static/flash/12.设备管理器.png
    :width: 800
    :align: center   
 
