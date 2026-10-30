@@ -1,7 +1,30 @@
 1. Flash The Firmware
 =====================
 
-**This product was not pre-programmed at the time of shipment. To use it, you will need to flash the program yourself. Please follow the instructions below to complete the flashing process.**
+Important Checks Before Use
+----------------------------
+
+.. important::
+
+ - Depending on the shipment batch, the main control board for the desktop AI gimbal robot may come either pre-programmed or unprogrammed; 
+
+ - In either case, it will function as intended. You can determine whether your main control board has been programmed by following the steps below:
+
+A. When the main control board is connected to a power source, if the RGB lights flash and the speaker emits a "beep" sound, it indicates that the board has already been programmed and is ready for installation and use.
+
+.. image:: _static/flash/0.烧录.png
+   :width: 800
+   :align: center
+
+.. raw:: html
+
+   <div style="margin-top: 30px;"></div>
+
+B. If the above does not occur, the main control board has not yet been programmed. Please refer to the tutorial below to flash the program onto the board before proceeding with installation and use.
+
+**Should you encounter any issues during the programming process, please contact our technical support team at: support@lafvin.cn**
+
+----
 
 Online Flashing
 ----------------
