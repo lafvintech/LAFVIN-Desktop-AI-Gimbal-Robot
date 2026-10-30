@@ -1,9 +1,6 @@
 1. Flash The Firmware
 =====================
 
-Important Checks Before Use
-----------------------------
-
 .. important::
 
  - Depending on the shipment batch, the main control board for the desktop AI gimbal robot may come either pre-programmed or unprogrammed; 
