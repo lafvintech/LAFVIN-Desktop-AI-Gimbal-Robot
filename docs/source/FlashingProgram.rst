@@ -10,7 +10,7 @@
 A. When the main control board is connected to a power source, if the RGB lights flash and the speaker emits a "beep" sound, it indicates that the board has already been programmed and is ready for installation and use.
 
 .. image:: _static/flash/0.烧录.png
-   :width: 800
+   :width: 500
    :align: center
 
 .. raw:: html
@@ -43,7 +43,7 @@ Step 1: Connect the Device
 Use the provided Type-C data cable to connect the **Desktop AI Gimbal Robot Main Control Board** to your computer.
 
 .. image:: _static/flash/9.type-c.png
-   :width: 400
+   :width: 500
    :align: center
 
 .. raw:: html
