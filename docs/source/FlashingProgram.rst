@@ -19,7 +19,7 @@ A. When the main control board is connected to a power source, if the RGB lights
 
 B. If the above does not occur, the main control board has not yet been programmed. Please refer to the tutorial below to flash the program onto the board before proceeding with installation and use.
 
-**Should you encounter any issues during the programming process, please contact our technical support team at: support@lafvin.cn**
+- Should you encounter any issues during the programming process, please contact our technical support team at: **support@lafvin.cn**
 
 ----
 
