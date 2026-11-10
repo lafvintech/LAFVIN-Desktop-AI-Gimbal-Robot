@@ -19,7 +19,24 @@
 **Illustrated Tutorial**
 
 - The illustrated tutorial provides a step-by-step guide with images to help you through the assembly process. Each step is accompanied by detailed instructions and visuals to ensure that you can easily follow along.
-   
+
+Preparation Before Assembly
+---------------------------
+
+- The acrylic panels included in this kit are typically covered with a protective film. Please be sure to remove this film before beginning assembly to ensure a proper fit and a clean appearance.
+
+- Depending on the production batch, the protective film may be either a clear plastic film or a paper-like film; both are normal. Please ensure the protective film is completely removed from the surfaces before proceeding with assembly.
+
+.. image:: _static/assembly/0.YKL.png
+   :width: 800
+   :align: center
+
+.. raw:: html
+
+   <div style="margin-top: 30px;"></div>
+
+----
+
 STEP 1: Assemble the Base
 --------------------------
 
